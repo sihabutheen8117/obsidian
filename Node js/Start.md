@@ -4,3 +4,13 @@
 - it is java script run time environment
 
 build end to end to js application
+Express js is the nodejs framework
+
+----
+
+node js runs ot side the browser
+- it also has the v8 engine to under stand the js.
+- it contain c++ features .
+- lib folder contain js code , that code internally has the c++ ,to access the os.
+
+------
