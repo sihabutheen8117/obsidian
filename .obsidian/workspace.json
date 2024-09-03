@@ -188,9 +188,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1e8e9d6b7faf923f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node js/Start.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -240,7 +253,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7a0827eaf6509c22",
@@ -256,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FusionWorks/Main.md",
+                "file": "Node js/Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FusionWorks/Main.md",
+                "file": "Node js/Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FusionWorks/Main.md"
+                "file": "Node js/Start.md"
               }
             }
           }
@@ -304,7 +318,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,13 +331,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fa2bb8055ffc7a4",
+  "active": "1e8e9d6b7faf923f",
   "lastOpenFiles": [
+    "FusionWorks/Main.md",
+    "Node js/Start.md",
     "FusionWorks/Log Auth.md",
     "FusionWorks/DataBase.md",
     "MongoDB.md",
     "MongoDB",
-    "FusionWorks/Main.md",
     "FusionWorks",
     "React_js/Router.md",
     "RPA",
