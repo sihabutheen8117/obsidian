@@ -22,3 +22,18 @@ axios.get('url?_limit : 5 )
 ```
 
 it is simply handling the error with the conditions.
+
+-----
+##### Validation
+- put this as a property of the method , example after the url
+
+```
+{
+	validateStatus : function(status) {
+		// it will only throw the error when the return status code is greater than 500 ,even 404
+		return status < 500 ;
+	}
+}
+```
+
+- we should tell or return a boolean ,which will be like whether throw the status code error or not. 

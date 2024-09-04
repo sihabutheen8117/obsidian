@@ -23,6 +23,12 @@ axios.get('url?_limit=5 ,{
 after this if you add this or call this
 ```
 if(true){
-
+	source.cancel('Request Cancelled !')
 }
 ```
+
+OutPut : Request cancel Request cancelled !
+
+Exaplanation :
+- if you call this it will cancel the req, and throw a message which os source.cancel() doest.
+- in the req section req will be canceled and catch will be executed thrown will be print the message which is thown when cancelling.
