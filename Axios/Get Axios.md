@@ -33,7 +33,7 @@ axios.get('url' ,{params : _limit : 5 })
 
 #### Or(works same as before)
 ```
-axios.get('url?_limit : 5 )
+axios.get('url?_limit=5 )
 	.then (res => {
 		//res gives the response object
 		console.log(res)

@@ -242,6 +242,58 @@
             }
           },
           {
+            "id": "3c87ca83564cd8bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transforming req and res Axios.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af3c7d60b93e1536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axios Globals.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b98eb44500030fc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Error Handling in Axios.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cbe3cadaa5cbadd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cancel Tokens in Axios ..md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eefbb920c94fcc6c",
             "type": "leaf",
             "state": {
@@ -359,7 +411,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -426,7 +478,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CUSTOM HEADERS.md",
+                "file": "Cancel Tokens in Axios ..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -443,7 +495,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CUSTOM HEADERS.md",
+                "file": "Cancel Tokens in Axios ..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -466,7 +518,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CUSTOM HEADERS.md"
+                "file": "Cancel Tokens in Axios ..md"
               }
             }
           }
@@ -487,15 +539,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0355b77fba41a2ce",
+  "active": "8cbe3cadaa5cbadd",
   "lastOpenFiles": [
-    "Axios/Put axios.md",
+    "Axios/Get Axios.md",
+    "Cancel Tokens in Axios ..md",
+    "Error Handling in Axios.md",
+    "Axios Globals.md",
+    "Transforming req and res Axios.md",
     "CUSTOM HEADERS.md",
+    "Axios/Put axios.md",
     "INTERCEPT REQ AND RES Axios.md",
     "Simultaneous REQ axios.md",
     "DELETE Axios.md",
     "PUT or PATCH Axios.md",
-    "Axios/Get Axios.md",
     "Axios/What is axios.md",
     "Node js/Start.md",
     "Untitled",
@@ -515,10 +571,6 @@
     "FusionWorks/Main.md",
     "FusionWorks/Log Auth.md",
     "React_js/Tip to Develop the React App.md",
-    "React_js/State.md",
-    "React_js/Router.md",
-    "React_js/React Life Cycle.md",
-    "React_js/REACT DOM (start).md",
     "MongoDB",
     "FusionWorks",
     "RPA",
