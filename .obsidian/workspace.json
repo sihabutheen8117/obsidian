@@ -333,6 +333,19 @@
             }
           },
           {
+            "id": "010a7b020027d7bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Import Express.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eefbb920c94fcc6c",
             "type": "leaf",
             "state": {
@@ -450,7 +463,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -500,7 +513,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7a0827eaf6509c22",
@@ -516,7 +530,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is Express js.md",
+                "file": "Import Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -533,7 +547,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is Express js.md",
+                "file": "Import Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -556,7 +570,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is Express js.md"
+                "file": "Import Express.md"
               }
             }
           }
@@ -577,10 +591,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89c27fc94b1a0077",
+  "active": "010a7b020027d7bb",
   "lastOpenFiles": [
-    "Axios/Simultaneous REQ axios.md",
     "What is Express js.md",
+    "Import Express.md",
+    "Axios/Simultaneous REQ axios.md",
     "Axios/Transforming req and res Axios.md",
     "Axios/Axios Instance.md",
     "Axios/Axios Globals.md",
@@ -608,7 +623,6 @@
     "Untitled.canvas",
     "2024-09-03.md",
     "React_js/JavaScript ES6 and ES7.md",
-    "React_js/Context.md",
     "MongoDB",
     "FusionWorks",
     "RPA",
