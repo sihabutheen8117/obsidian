@@ -6,4 +6,7 @@ ES - ECMAScript
 Ecma it is industry association for standartizing.
 javascript is build in top of ECMA script.
 
+more about v8 engine [[Chrome V8 Engine]]
+
+
 
