@@ -1,7 +1,8 @@
 - PUT and PATCH are used to update the data
 - put : replaces the entire
 - patch : part of that.
-- in ure we should specify the id also see the url
+- in ure we should specify the id also see the url.
+- put / patch in express js -> [[put]]
 
 ##### PUT
 ```

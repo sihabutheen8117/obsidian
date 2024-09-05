@@ -1,3 +1,6 @@
+
+- want to see the server (express ) delete handling api -> [[DELETE req in express.]]
+
 ```
 axios({
 	method : 'delete',
@@ -14,4 +17,5 @@ axios({
 - id : what object you want to delete
 - it will return empty object
 
--
+
+
