@@ -11,3 +11,14 @@ app.put('url/:id' (req,res)=>{
 	const {id} = req.params;
 })
 ```
+
+#### PATCH Req 
+- it update partially. 
+- portion of the data object.
+
+
+```
+app.patch('url/:id' , (req ,res)=>{
+
+})
+```

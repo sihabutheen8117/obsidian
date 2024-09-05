@@ -23,6 +23,7 @@ output : undefined.
 because.
 - express will not parse that body
 - for getting data we should create middleware
+- more about middleware -> [[MiddleWares in Express]]
 
 we want to send the json file from client to server.
 so that include the below code in express.
