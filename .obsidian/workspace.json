@@ -393,7 +393,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Express js/Route Params express.md",
+                "file": "QUERY PARAMS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b33f2ae4ddaeea7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POST req in Express.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -518,7 +531,7 @@
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -585,7 +598,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Express js/Route Params express.md",
+                "file": "POST req in Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -602,7 +615,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Express js/Route Params express.md",
+                "file": "POST req in Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -625,7 +638,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Express js/Route Params express.md"
+                "file": "POST req in Express.md"
               }
             }
           }
@@ -646,9 +659,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bf8b13ec6b6d6e7",
+  "active": "b33f2ae4ddaeea7f",
   "lastOpenFiles": [
-    "Untitled.md",
+    "QUERY PARAMS.md",
+    "POST req in Express.md",
+    "Express js/Route Params express.md",
     "Untitled",
     "Computer Networks/TCP,IP reference model.md",
     "Computer Networks/OSI reference model.md",
@@ -657,7 +672,6 @@
     "Express js/What is Express js.md",
     "Express js/Get Req Express.md",
     "Express js/Import Express.md",
-    "Express js/Route Params express.md",
     "Axios/Simultaneous REQ axios.md",
     "Axios/Transforming req and res Axios.md",
     "Axios/Axios Instance.md",
@@ -676,7 +690,6 @@
     "Axios",
     "Express.md",
     "Node js/Chrome V8 Engine.md",
-    "Node js/JS runtime.md",
     "Express js",
     "Untitled.canvas",
     "MongoDB",
