@@ -1,4 +1,7 @@
+
+looking for server get res -> [[Get Req Express]]
 #### Example :
+
 ```
 axios({
 	method : 'get',
