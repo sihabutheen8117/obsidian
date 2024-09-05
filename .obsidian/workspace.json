@@ -367,6 +367,27 @@
             }
           },
           {
+            "id": "3c920ba85d8d69cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networks/OSI reference model.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5afc163c8f3855b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "eefbb920c94fcc6c",
             "type": "leaf",
             "state": {
@@ -484,7 +505,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -534,8 +555,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7a0827eaf6509c22",
@@ -551,7 +571,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React_js/JavaScript ES6 and ES7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -568,7 +587,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React_js/JavaScript ES6 and ES7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -590,9 +608,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React_js/JavaScript ES6 and ES7.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -612,8 +628,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "118826963c3e849d",
+  "active": "c5afc163c8f3855b",
   "lastOpenFiles": [
+    "Computer Networks/TCP,IP reference model.md",
+    "Computer Networks/OSI reference model.md",
+    "Computer Networks",
     "Axios/Get Axios.md",
     "Express js/What is Express js.md",
     "Express js/Get Req Express.md",
@@ -634,15 +653,12 @@
     "Axios/Put axios.md",
     "Axios/PUT or PATCH Axios.md",
     "Node js/Start.md",
-    "Untitled",
     "Axios",
     "Express.md",
     "Node js/Chrome V8 Engine.md",
     "Node js/JS runtime.md",
     "Node js/modules.md",
-    "Node js/Node code start.md",
     "Express js",
-    "React_js/React Hooks.md",
     "Untitled.canvas",
     "MongoDB",
     "FusionWorks",
