@@ -2,7 +2,7 @@
 - carry data from client to server then saved in server.
 - when client to need to stores the data in server , which is get from the client.
 - the data called req body. or payload.
-- more about client put req -> [[put]]
+- more about client post req -> [[Post axios]]
 
 
 {Note : user data validation should be done both client and server side , it is good practice}
