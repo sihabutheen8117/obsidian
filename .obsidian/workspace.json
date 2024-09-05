@@ -388,6 +388,19 @@
             }
           },
           {
+            "id": "3bf8b13ec6b6d6e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Express js/Route Params express.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eefbb920c94fcc6c",
             "type": "leaf",
             "state": {
@@ -505,7 +518,7 @@
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -555,7 +568,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7a0827eaf6509c22",
@@ -571,7 +585,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React_js/JavaScript ES6 and ES7.md",
+                "file": "Express js/Route Params express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -588,7 +602,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React_js/JavaScript ES6 and ES7.md",
+                "file": "Express js/Route Params express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -611,7 +625,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React_js/JavaScript ES6 and ES7.md"
+                "file": "Express js/Route Params express.md"
               }
             }
           }
@@ -632,8 +646,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5afc163c8f3855b",
+  "active": "3bf8b13ec6b6d6e7",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled",
     "Computer Networks/TCP,IP reference model.md",
     "Computer Networks/OSI reference model.md",
     "Computer Networks",
@@ -661,7 +677,6 @@
     "Express.md",
     "Node js/Chrome V8 Engine.md",
     "Node js/JS runtime.md",
-    "Node js/modules.md",
     "Express js",
     "Untitled.canvas",
     "MongoDB",
