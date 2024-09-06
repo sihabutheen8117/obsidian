@@ -2,7 +2,7 @@
 - put : replaces the entire
 - patch : part of that.
 - in ure we should specify the id also see the url.
-- put / patch in express js -> [[put]]
+- put / patch in express js -> [[PUT and PATCH req in express.]]
 
 ##### PUT
 ```
