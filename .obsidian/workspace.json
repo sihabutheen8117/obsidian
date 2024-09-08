@@ -466,6 +466,19 @@
             }
           },
           {
+            "id": "a23b227c5e7ca63e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redux/what is redux.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eefbb920c94fcc6c",
             "type": "leaf",
             "state": {
@@ -583,7 +596,7 @@
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 36
       }
     ],
     "direction": "vertical"
@@ -649,7 +662,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React_js/Router.md",
+                "file": "Redux/what is redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -666,7 +679,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React_js/Router.md",
+                "file": "Redux/what is redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -689,7 +702,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React_js/Router.md"
+                "file": "Redux/what is redux.md"
               }
             }
           }
@@ -710,8 +723,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9ad0388100f5d49",
+  "active": "a23b227c5e7ca63e",
   "lastOpenFiles": [
+    "Redux/what is redux.md",
+    "React_js/Router.md",
+    "Redux",
     "Express js/Validation in Express..md",
     "Axios/PUT or PATCH Axios.md",
     "Express js/PUT and PATCH req in express..md",
@@ -736,9 +752,6 @@
     "FusionWorks/DataBase.md",
     "Express js/POST req in Express.md",
     "Express js/DELETE req in express..md",
-    "Express js/Route Params express.md",
-    "Express js/QUERY PARAMS.md",
-    "Untitled",
     "Computer Networks",
     "Axios",
     "Express js",
