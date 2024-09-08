@@ -492,6 +492,19 @@
             }
           },
           {
+            "id": "68e38947c5e235bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cookies in Express.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eefbb920c94fcc6c",
             "type": "leaf",
             "state": {
@@ -609,7 +622,7 @@
             }
           }
         ],
-        "currentTab": 37
+        "currentTab": 38
       }
     ],
     "direction": "vertical"
@@ -675,7 +688,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Routers in Express.md",
+                "file": "Cookies in Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -692,7 +705,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routers in Express.md",
+                "file": "Cookies in Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -715,7 +728,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Routers in Express.md"
+                "file": "Cookies in Express.md"
               }
             }
           }
@@ -736,10 +749,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93bea12f36ca38f3",
+  "active": "68e38947c5e235bc",
   "lastOpenFiles": [
-    "Express js/Validation in Express..md",
     "Routers in Express.md",
+    "Cookies in Express.md",
+    "Express js/Validation in Express..md",
     "Redux/what is redux.md",
     "React_js/Router.md",
     "Redux",
@@ -764,7 +778,6 @@
     "FusionWorks/Main.md",
     "FusionWorks/Log Auth.md",
     "FusionWorks/DataBase.md",
-    "Express js/POST req in Express.md",
     "Computer Networks",
     "Axios",
     "Express js",

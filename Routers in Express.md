@@ -17,5 +17,25 @@ we have 2 file one is server.js , another is user.js
 
 in user.js
 ```
-import {Router} from "express"
+import {Router} from "express";
+
+const router = Router();
+
+router.get()
+//something what we done in express.
+
+
+export default router;
 ```
+
+in server.js
+```
+import express from "express"
+
+import router from "/folder location"
+
+const app = express();
+
+app.user(router)
+```
+- use user.js router we must register in express using app.use()
