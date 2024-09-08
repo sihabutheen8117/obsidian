@@ -61,8 +61,52 @@ import {body } from 'express-validator';
 add body() insteaad of query().
 - inside the body(here) put ,what you wants to validate example username ,which is came from the client body object.
 
+after validation you wants to get the validated data ,which is passed the validation, to get that we can use matchedData function ,before use import that from express validator,
+```
+import {matchedData } from "express-validator"
+const data = matchedData(request);
 
+```
 
+#### Validation using Schema
+- it likly what i mentioned earlier,
+- in earlier code ,if you validate many thing it will be more confusing ,so that we used schema validation
+
+for we shoud import checkShema from express-validator ;
+
+after that create a object that conatins
+```
+const obj = {
+	username : {
+		isLength : {
+			options : {
+				min : 5,
+				max : 15,
+			},
+			errorMessage : "like withmessage function we seen earlier"
+		}
+	},
+
+	email : {
+		//so on
+	},
+//so on
+}
+```
+
+this is that object 
+- username is nothing but what we passed into the body() ,
+- isLength nothing u know validator
+- options are argument of the isLenth or properties of isLength
+- errorMessage is like withMessage function 
+- if you want to validate another one you can put one after one.
+
+How to use this.
+
+simple with the middle ware checkMessage
+```
+checkMessage(obj);
+```
 
 
 
