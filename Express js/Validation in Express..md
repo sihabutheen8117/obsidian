@@ -40,3 +40,39 @@ console.log(result);
 
 ```
 it will return the array of object.
+
+
+how to check which error is which.
+- validationREsult will return the object that tells us it is error.
+- but we use many validation we dont know which error message is for which validation.
+
+For this we can do.
+```
+Query().isString().withMessage("value must be string")
+```
+- set this after every validation example .isStrign().withMessage("value must be string");
+
+
+#### Validation of Req body
+```
+import {body } from 'express-validator';
+```
+
+add body() insteaad of query().
+- inside the body(here) put ,what you wants to validate example username ,which is came from the client body object.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
