@@ -17,5 +17,16 @@ An ODM provides a bridge between the **documents** in a database and the **objec
 - install mongoose from npm.
 - import mongoose from mongoose.
 - connect mongoose in mongodb
+```
+mongoose.connect('mongodb://localhost:27017 /database_name').then(()=>{
+	console.log("connnected to database")
+}).catch((err)=>{
+	console.log(err)
+})
+
+//27017 is default port check you mongodb.
+//you can omit this port
+```
+
 
 
