@@ -37,3 +37,21 @@ console.log(request.session.id);
 when ever visite the site it will generate different session id , eventhough for same user.
 - it will be confusion because we want one sessionId for one user not many session ids
 
+```
+request.session.visited = true ;
+```
+
+after run this it wont generate new session id for existing user (currently logged in user.)
+
+you can get any user session data from session store by using session id
+```
+request.sessionStore.get(request.session.id , (err,data)=>{
+	if(err)=>{
+		console.log(err)
+		throw err;
+		}
+	console.log(data)
+})
+```
+
+this value equvalent to "request.session";
