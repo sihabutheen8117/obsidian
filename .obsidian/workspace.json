@@ -531,6 +531,19 @@
             }
           },
           {
+            "id": "c863deac66378727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase and Mongodb in Express.js.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eefbb920c94fcc6c",
             "type": "leaf",
             "state": {
@@ -648,7 +661,7 @@
             }
           }
         ],
-        "currentTab": 40
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -714,7 +727,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passport js in Express.md",
+                "file": "DataBase and Mongodb in Express.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -731,7 +744,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Passport js in Express.md",
+                "file": "DataBase and Mongodb in Express.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -754,7 +767,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passport js in Express.md"
+                "file": "DataBase and Mongodb in Express.js.md"
               }
             }
           }
@@ -775,10 +788,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "394064b4cc6cde70",
+  "active": "c863deac66378727",
   "lastOpenFiles": [
-    "Sessions in Express.md",
     "Passport js in Express.md",
+    "DataBase and Mongodb in Express.js.md",
+    "Sessions in Express.md",
     "Routers in Express.md",
     "Cookies in Express.md",
     "Untitled",
@@ -804,7 +818,6 @@
     "React_js/React Life Cycle.md",
     "React_js/REACT DOM (start).md",
     "React_js/React Component.md",
-    "FusionWorks/Main.md",
     "Computer Networks",
     "Axios",
     "Express js",

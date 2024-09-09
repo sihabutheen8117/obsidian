@@ -121,4 +121,24 @@ In this example:
 Let me know if you want to dive deeper into this with examples or a practical scenario!
 
 ----------------
-	
+
+# WORK FLOW OF PASSPORT
+
+#### Read carefully
+
+- passport is a kind of thing which is used to manage the session data ,to client to server side.
+- passport is used to authendicate user ,user is existed or not.
+
+- passport has two function ser (serializer ) , deser (deserializer);
+- when you logged to the server , passport will execute the stradegy you defined.
+- it will return the user data when authendicate successfully , else err.
+- when you authendicated serializer function will call execute ,what this function will  do is ,it will attach the user id to the req ,body (session).
+- by attaching only user id instead of full user details ,it will optimized. (id should be unique)
+- after logged in , whenever you make another api call , it will executer deserializer , it will get back your data using user id ,which is previously attached by the ser function.
+- by this way you can easily identifies the user , and execute their need.
+
+
+
+
+
+
