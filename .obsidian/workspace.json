@@ -518,6 +518,19 @@
             }
           },
           {
+            "id": "394064b4cc6cde70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Passport js in Express.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eefbb920c94fcc6c",
             "type": "leaf",
             "state": {
@@ -635,7 +648,7 @@
             }
           }
         ],
-        "currentTab": 39
+        "currentTab": 40
       }
     ],
     "direction": "vertical"
@@ -701,7 +714,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions in Express.md",
+                "file": "Passport js in Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -718,7 +731,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions in Express.md",
+                "file": "Passport js in Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -741,7 +754,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions in Express.md"
+                "file": "Passport js in Express.md"
               }
             }
           }
@@ -762,10 +775,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9433f1073171cd4",
+  "active": "394064b4cc6cde70",
   "lastOpenFiles": [
-    "Routers in Express.md",
     "Sessions in Express.md",
+    "Passport js in Express.md",
+    "Routers in Express.md",
     "Cookies in Express.md",
     "Untitled",
     "Express js/Validation in Express..md",
@@ -791,7 +805,6 @@
     "React_js/REACT DOM (start).md",
     "React_js/React Component.md",
     "FusionWorks/Main.md",
-    "FusionWorks/Log Auth.md",
     "Computer Networks",
     "Axios",
     "Express js",
