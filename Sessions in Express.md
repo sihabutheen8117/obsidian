@@ -55,3 +55,41 @@ request.sessionStore.get(request.session.id , (err,data)=>{
 ```
 
 this value equvalent to "request.session";
+
+
+---------------
+
+### Store the sessions in Monogdb
+
+##### Why we should stores the sessions ?
+- assume that you loggin in the web site after some times one or 2 seconds server goes down ,it will erase all the sessions in the memory.
+- so ,after server come back the server ,forgot your session ,so you need to re login the website.
+- to prevent this we need to stores the session in the database.
+
+```
+npm -i connect-mongo
+```
+
+import mondoStore from connect-mongo
+
+in the sesion
+
+```
+app.use(session({
+	secret :"encoding password",
+	saveUnInitialized : false ,
+	resave : false ,
+	cookie : {
+		maxAge : 100 /miliseconds
+	}
+
+	//new
+	store : mongoStore.create({
+		client : mongoose.connection.getClient()
+	})
+}))
+```
+
+- saveUnInitialized : is set to false ,if it is true when ever you visit the site it will automaticcally create and stores the sessions in mongodb database , eventhough user not authendicated.
+- resave : is set to false , if it is true , when ever you visit the website it automatically ,set the expirary time to initial value , so it will start from first ,so we do not need them.
+

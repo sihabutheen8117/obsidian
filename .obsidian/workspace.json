@@ -549,7 +549,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashing Password in Express.md",
+                "file": "Sessions in Express.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cdfe9da6abd42eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -674,7 +687,7 @@
             }
           }
         ],
-        "currentTab": 42
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -740,7 +753,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashing Password in Express.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -757,7 +770,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashing Password in Express.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -780,7 +793,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashing Password in Express.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -801,12 +814,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d96697cf94c37b9d",
+  "active": "2cdfe9da6abd42eb",
   "lastOpenFiles": [
-    "DataBase and Mongodb in Express.js.md",
-    "Hashing Password in Express.md",
-    "Passport js in Express.md",
     "Sessions in Express.md",
+    "Untitled.md",
+    "Hashing Password in Express.md",
+    "DataBase and Mongodb in Express.js.md",
+    "Passport js in Express.md",
     "Routers in Express.md",
     "Cookies in Express.md",
     "Untitled",
@@ -830,7 +844,6 @@
     "React_js/Context.md",
     "React_js/Props.md",
     "React_js/React Life Cycle.md",
-    "React_js/REACT DOM (start).md",
     "Computer Networks",
     "Axios",
     "Express js",
