@@ -7,3 +7,5 @@
 - redux has a many boiler plate code (rewrite ) ,so we used redux toolkit.
 
 - through react-redux package we can use redux in react.
+
+next -> [[Intro - React - redux]]

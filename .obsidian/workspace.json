@@ -583,7 +583,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redux Toolkit/what is redux.md",
+                "file": "React - Redux Toolkit/what is redux.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29fd3bae81822b18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro - React - redux.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -708,7 +721,7 @@
             }
           }
         ],
-        "currentTab": 45
+        "currentTab": 46
       }
     ],
     "direction": "vertical"
@@ -774,7 +787,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redux Toolkit/what is redux.md",
+                "file": "Intro - React - redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -791,7 +804,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redux Toolkit/what is redux.md",
+                "file": "Intro - React - redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -814,7 +827,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redux Toolkit/what is redux.md"
+                "file": "Intro - React - redux.md"
               }
             }
           }
@@ -835,8 +848,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcb83ddf37c6cdaa",
+  "active": "29fd3bae81822b18",
   "lastOpenFiles": [
+    "React - Redux Toolkit/what is redux.md",
+    "Intro - React - redux.md",
     "Untitled",
     "MERN stack - Edu net/Module - 2 - frontend.md",
     "MERN stack - Edu net/Module 1 - Intro to MERN stack tools and tech.md",
@@ -849,9 +864,8 @@
     "Express js/Routers in Express.md",
     "Express js/Cookies in Express.md",
     "Express js/Validation in Express..md",
-    "Redux Toolkit/what is redux.md",
     "React_js/Router.md",
-    "Redux Toolkit",
+    "React - Redux Toolkit",
     "Axios/PUT or PATCH Axios.md",
     "Express js/PUT and PATCH req in express..md",
     "Axios/Post axios.md",
