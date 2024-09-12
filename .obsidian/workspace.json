@@ -484,7 +484,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Routers in Express.md",
+                "file": "Express js/Routers in Express.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -497,7 +497,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Routers in Express.md",
+                "file": "Express js/Routers in Express.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -510,7 +510,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions in Express.md",
+                "file": "Express js/Sessions in Express.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -523,7 +523,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Passport js in Express.md",
+                "file": "Express js/Passport js in Express.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -536,7 +536,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase and Mongodb in Express.js.md",
+                "file": "Express js/DataBase and Mongodb in Express.js.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -549,7 +549,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions in Express.md",
+                "file": "Express js/Sessions in Express.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -570,7 +570,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 1 - Intro to MERN stack tools and tech.md",
+                "file": "MERN stack - Edu net/Module 1 - Intro to MERN stack tools and tech.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -581,13 +581,8 @@
             "id": "fcb83ddf37c6cdaa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module - 2 - frontend.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -775,7 +770,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module - 2 - frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -792,7 +786,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module - 2 - frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -814,9 +807,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Module - 2 - frontend.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -836,23 +827,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcb83ddf37c6cdaa",
+  "active": "a4c0fe0904988e8f",
   "lastOpenFiles": [
-    "Module 1 - Intro to MERN stack tools and tech.md",
-    "Module - 2 - frontend.md",
     "Untitled",
+    "MERN stack - Edu net/Module - 2 - frontend.md",
+    "MERN stack - Edu net/Module 1 - Intro to MERN stack tools and tech.md",
     "MERN stack - Edu net",
-    "OAuth2 in Express.md",
-    "Sessions in Express.md",
-    "Hashing Password in Express.md",
-    "DataBase and Mongodb in Express.js.md",
-    "Passport js in Express.md",
-    "Routers in Express.md",
-    "Cookies in Express.md",
+    "Express js/OAuth2 in Express.md",
+    "Express js/Sessions in Express.md",
+    "Express js/Hashing Password in Express.md",
+    "Express js/DataBase and Mongodb in Express.js.md",
+    "Express js/Passport js in Express.md",
+    "Express js/Routers in Express.md",
+    "Express js/Cookies in Express.md",
     "Express js/Validation in Express..md",
-    "Redux/what is redux.md",
+    "Redux Toolkit/what is redux.md",
     "React_js/Router.md",
-    "Redux",
+    "Redux Toolkit",
     "Axios/PUT or PATCH Axios.md",
     "Express js/PUT and PATCH req in express..md",
     "Axios/Post axios.md",
@@ -866,7 +857,6 @@
     "Axios/Axios Globals.md",
     "Express js/MiddleWares in Express.md",
     "React_js/JavaScript ES6 and ES7.md",
-    "React_js/Context.md",
     "Computer Networks",
     "Axios",
     "Express js",

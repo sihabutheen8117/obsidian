@@ -1,22 +1,13 @@
-
-# Unit -1 - HTML
-
-### SGML (standard generalized)
-1.HTML (implementational purpose language)
-2.XML (config oriented purpose)
+(implementational purpose language)
+ML (config oriented purpose)
 - we can also config by JSON.
 
 ----
 ##### HTML
-- html 1st version 1991
-- latest version 2014 , version 5
+- html 1st version 1991version 5
 - html current version of html is version 5
 - hypertext markup language
-- making the struct of the web page.
-- what is markup?
-- it is not programming language.
-
-##### what is hyperlink.
+- making the struct of the web page.link.
 - the link between one to another page is called hypertext
 
 #### DOCTYPE 
