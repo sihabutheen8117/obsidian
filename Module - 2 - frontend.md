@@ -8,12 +8,16 @@
 
 ----
 ##### HTML
+- html 1st version 1991
+- latest version 2014 , version 5
 - html current version of html is version 5
 - hypertext markup language
 - making the struct of the web page.
-- what is markup
-	- 
+- what is markup?
 - it is not programming language.
+
+##### what is hyperlink.
+- the link between one to another page is called hypertext
 
 #### DOCTYPE 
 - it is tells we are using the html 5 
