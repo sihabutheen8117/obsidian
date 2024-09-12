@@ -20,8 +20,7 @@
 
 
 --------
-
-
+- you can change the backround color in thml using the html attribute
 
 
 
