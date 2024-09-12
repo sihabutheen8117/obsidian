@@ -11,5 +11,6 @@ MERN - stack  - R for React.
 - what is hyper text?
 
 **url - uniform resolution locator**
+**boiler plate code - repeating the code without using the library (is bad and time consuming)**
 
 
