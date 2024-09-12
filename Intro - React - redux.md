@@ -126,3 +126,6 @@ const Counter = () => {
 	)
 }
 ```
+
+
+next -> [[Structure and DataFlow - react-Redux]]

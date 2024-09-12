@@ -604,6 +604,19 @@
             }
           },
           {
+            "id": "add160b7545d30e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structure and DataFlow - react-Redux.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eefbb920c94fcc6c",
             "type": "leaf",
             "state": {
@@ -721,7 +734,7 @@
             }
           }
         ],
-        "currentTab": 46
+        "currentTab": 47
       }
     ],
     "direction": "vertical"
@@ -787,7 +800,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro - React - redux.md",
+                "file": "Structure and DataFlow - react-Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -804,7 +817,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro - React - redux.md",
+                "file": "Structure and DataFlow - react-Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -827,7 +840,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro - React - redux.md"
+                "file": "Structure and DataFlow - react-Redux.md"
               }
             }
           }
@@ -848,10 +861,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29fd3bae81822b18",
+  "active": "add160b7545d30e9",
   "lastOpenFiles": [
-    "React - Redux Toolkit/what is redux.md",
     "Intro - React - redux.md",
+    "Structure and DataFlow - react-Redux.md",
+    "React - Redux Toolkit/what is redux.md",
     "Untitled",
     "MERN stack - Edu net/Module - 2 - frontend.md",
     "MERN stack - Edu net/Module 1 - Intro to MERN stack tools and tech.md",
@@ -878,7 +892,6 @@
     "Axios/Axios Instance.md",
     "Axios/Axios Globals.md",
     "Express js/MiddleWares in Express.md",
-    "React_js/JavaScript ES6 and ES7.md",
     "Computer Networks",
     "Axios",
     "Express js",
