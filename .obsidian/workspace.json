@@ -570,7 +570,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to MERN stack tools and tech.md",
+                "file": "Module 1 - Intro to MERN stack tools and tech.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -583,7 +583,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to MERN stack tools and tech.md",
+                "file": "Module - 2 - frontend.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -775,7 +775,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to MERN stack tools and tech.md",
+                "file": "Module - 2 - frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -792,7 +792,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro to MERN stack tools and tech.md",
+                "file": "Module - 2 - frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -815,7 +815,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro to MERN stack tools and tech.md"
+                "file": "Module - 2 - frontend.md"
               }
             }
           }
@@ -838,8 +838,8 @@
   },
   "active": "fcb83ddf37c6cdaa",
   "lastOpenFiles": [
-    "Module 1.md",
-    "Intro to MERN stack tools and tech.md",
+    "Module 1 - Intro to MERN stack tools and tech.md",
+    "Module - 2 - frontend.md",
     "Untitled",
     "MERN stack - Edu net",
     "OAuth2 in Express.md",
