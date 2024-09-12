@@ -581,8 +581,13 @@
             "id": "fcb83ddf37c6cdaa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Redux Toolkit/what is redux.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -753,8 +758,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7a0827eaf6509c22",
@@ -770,6 +774,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Redux Toolkit/what is redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -786,6 +791,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Redux Toolkit/what is redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -807,7 +813,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Redux Toolkit/what is redux.md"
+              }
             }
           }
         ]
@@ -827,7 +835,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4c0fe0904988e8f",
+  "active": "fcb83ddf37c6cdaa",
   "lastOpenFiles": [
     "Untitled",
     "MERN stack - Edu net/Module - 2 - frontend.md",
