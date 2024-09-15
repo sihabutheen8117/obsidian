@@ -596,7 +596,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro - React - redux.md",
+                "file": "React - Redux Toolkit/Intro - React - redux.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -609,7 +609,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structure and DataFlow - react-Redux.md",
+                "file": "React - Redux Toolkit/Structure and DataFlow - react-Redux.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47745742490e95d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is next js.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -734,7 +747,7 @@
             }
           }
         ],
-        "currentTab": 47
+        "currentTab": 48
       }
     ],
     "direction": "vertical"
@@ -800,7 +813,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure and DataFlow - react-Redux.md",
+                "file": "What is next js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -817,7 +830,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure and DataFlow - react-Redux.md",
+                "file": "What is next js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -840,7 +853,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structure and DataFlow - react-Redux.md"
+                "file": "What is next js.md"
               }
             }
           }
@@ -861,12 +874,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "add160b7545d30e9",
+  "active": "47745742490e95d7",
   "lastOpenFiles": [
-    "Intro - React - redux.md",
-    "Structure and DataFlow - react-Redux.md",
+    "React - Redux Toolkit/Structure and DataFlow - react-Redux.md",
+    "What is next js.md",
+    "Next_js",
+    "React - Redux Toolkit/Intro - React - redux.md",
     "React - Redux Toolkit/what is redux.md",
-    "Untitled",
     "MERN stack - Edu net/Module - 2 - frontend.md",
     "MERN stack - Edu net/Module 1 - Intro to MERN stack tools and tech.md",
     "MERN stack - Edu net",
@@ -891,7 +905,6 @@
     "Axios/Cancel Tokens in Axios ..md",
     "Axios/Axios Instance.md",
     "Axios/Axios Globals.md",
-    "Express js/MiddleWares in Express.md",
     "Computer Networks",
     "Axios",
     "Express js",
