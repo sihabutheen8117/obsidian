@@ -643,6 +643,19 @@
             }
           },
           {
+            "id": "a66ace9e3ddf1ddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSG , ISR , SSR ,CSR in next.js.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eefbb920c94fcc6c",
             "type": "leaf",
             "state": {
@@ -760,7 +773,7 @@
             }
           }
         ],
-        "currentTab": 49
+        "currentTab": 50
       }
     ],
     "direction": "vertical"
@@ -826,7 +839,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Layouts and pages.md",
+                "file": "SSG , ISR , SSR ,CSR in next.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -843,7 +856,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Layouts and pages.md",
+                "file": "SSG , ISR , SSR ,CSR in next.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -866,7 +879,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Layouts and pages.md"
+                "file": "SSG , ISR , SSR ,CSR in next.js.md"
               }
             }
           }
@@ -887,10 +900,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b72aa1b299237e9",
+  "active": "a66ace9e3ddf1ddd",
   "lastOpenFiles": [
     "What is next js.md",
     "Layouts and pages.md",
+    "SSG , ISR , SSR ,CSR in next.js.md",
     "Untitled",
     "React - Redux Toolkit/Structure and DataFlow - react-Redux.md",
     "Next_js",
@@ -918,7 +932,6 @@
     "Axios/DELETE Axios.md",
     "Axios/CUSTOM HEADERS.md",
     "Axios/Cancel Tokens in Axios ..md",
-    "Axios/Axios Instance.md",
     "Computer Networks",
     "Axios",
     "Express js",
