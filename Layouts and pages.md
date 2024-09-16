@@ -6,4 +6,4 @@
 - pages is the children of the layout , which returns the actual react component.
 - actually every folder below the app is route,
 
-- for more details see the dave gray youtube channel
+- for more details visit next js docs or dave gray youtube channel.
