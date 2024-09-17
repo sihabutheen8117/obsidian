@@ -687,7 +687,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is API.md",
+                "file": "API/What is API.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -700,7 +700,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RESTful APIs.md",
+                "file": "API/RESTful APIs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "265e9eed1d639068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navigate programmatically in NEXT.js.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "405e8bc334448029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template file in NEXT.js.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -825,7 +851,7 @@
             }
           }
         ],
-        "currentTab": 54
+        "currentTab": 56
       }
     ],
     "direction": "vertical"
@@ -891,7 +917,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RESTful APIs.md",
+                "file": "Template file in NEXT.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -908,7 +934,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RESTful APIs.md",
+                "file": "Template file in NEXT.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -931,7 +957,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RESTful APIs.md"
+                "file": "Template file in NEXT.js.md"
               }
             }
           }
@@ -952,10 +978,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63c0fbc1fd851592",
+  "active": "405e8bc334448029",
   "lastOpenFiles": [
-    "What is API.md",
-    "RESTful APIs.md",
+    "Navigate programmatically in NEXT.js.md",
+    "Template file in NEXT.js.md",
+    "API/RESTful APIs.md",
+    "API/What is API.md",
     "Next_js/Navigation in Next.js.md",
     "API",
     "Next_js/Layouts and pages in next.js.md",
@@ -982,8 +1010,6 @@
     "Axios/PUT or PATCH Axios.md",
     "Express js/PUT and PATCH req in express..md",
     "Axios/Post axios.md",
-    "Axios/INTERCEPT REQ AND RES Axios.md",
-    "Axios/Get Axios.md",
     "Computer Networks",
     "Axios",
     "Express js",
