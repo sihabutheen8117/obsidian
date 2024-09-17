@@ -726,7 +726,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template file in NEXT.js.md",
+                "file": "Special files in NEXT.js.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -917,7 +917,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template file in NEXT.js.md",
+                "file": "Special files in NEXT.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -934,7 +934,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template file in NEXT.js.md",
+                "file": "Special files in NEXT.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -957,7 +957,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template file in NEXT.js.md"
+                "file": "Special files in NEXT.js.md"
               }
             }
           }
@@ -981,7 +981,7 @@
   "active": "405e8bc334448029",
   "lastOpenFiles": [
     "Navigate programmatically in NEXT.js.md",
-    "Template file in NEXT.js.md",
+    "Special files in NEXT.js.md",
     "API/RESTful APIs.md",
     "API/What is API.md",
     "Next_js/Navigation in Next.js.md",
