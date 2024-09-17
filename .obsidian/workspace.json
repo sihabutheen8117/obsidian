@@ -635,7 +635,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Layouts and pages and routes in next.js.md",
+                "file": "Layouts and pages in next.js.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -648,7 +648,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Layouts and pages and routes in next.js.md",
+                "file": "Layouts and pages in next.js.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -661,7 +661,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta Data in Next.js.md",
+                "file": "Layouts and pages in next.js.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bf7d9b78b91005e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navigation in Next.js.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -786,7 +799,7 @@
             }
           }
         ],
-        "currentTab": 51
+        "currentTab": 52
       }
     ],
     "direction": "vertical"
@@ -852,7 +865,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta Data in Next.js.md",
+                "file": "Navigation in Next.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -869,7 +882,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta Data in Next.js.md",
+                "file": "Navigation in Next.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -892,7 +905,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta Data in Next.js.md"
+                "file": "Navigation in Next.js.md"
               }
             }
           }
@@ -913,10 +926,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b06120ea2cfcf465",
+  "active": "0bf7d9b78b91005e",
   "lastOpenFiles": [
-    "Layouts and pages and routes in next.js.md",
+    "Layouts and pages in next.js.md",
     "Meta Data in Next.js.md",
+    "Navigation in Next.js.md",
     "What is next js.md",
     "SSG , ISR , SSR ,CSR in next.js.md",
     "Untitled",
@@ -944,7 +958,6 @@
     "Axios/Get Axios.md",
     "Axios/Error Handling in Axios.md",
     "Axios/DELETE Axios.md",
-    "Axios/CUSTOM HEADERS.md",
     "Computer Networks",
     "Axios",
     "Express js",

@@ -4,4 +4,4 @@
 - it provides file based routing.
 
 
--> Layout and pages in next js [[Layouts and pages and routes in next.js]]
+-> Layout and pages in next js [[Layouts and pages in next.js]]

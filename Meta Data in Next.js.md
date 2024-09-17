@@ -58,7 +58,10 @@ app/child
 ```
 export const metadata = {
 	title : {
-		absolut
+		absolute : "children"
 	}
 }
 ```
+
+- here the title will be just children not children | my app , because he ignore parent using absolute.
+
