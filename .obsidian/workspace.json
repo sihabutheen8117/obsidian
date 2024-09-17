@@ -648,7 +648,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSG , ISR , SSR ,CSR in next.js.md",
+                "file": "What is next js.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -839,7 +839,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSG , ISR , SSR ,CSR in next.js.md",
+                "file": "What is next js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -856,7 +856,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSG , ISR , SSR ,CSR in next.js.md",
+                "file": "What is next js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -879,7 +879,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSG , ISR , SSR ,CSR in next.js.md"
+                "file": "What is next js.md"
               }
             }
           }
@@ -902,9 +902,9 @@
   },
   "active": "a66ace9e3ddf1ddd",
   "lastOpenFiles": [
+    "SSG , ISR , SSR ,CSR in next.js.md",
     "What is next js.md",
     "Layouts and pages.md",
-    "SSG , ISR , SSR ,CSR in next.js.md",
     "Untitled",
     "React - Redux Toolkit/Structure and DataFlow - react-Redux.md",
     "Next_js",
