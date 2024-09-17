@@ -635,7 +635,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Layouts and pages.md",
+                "file": "Layouts and pages and routes in next.js.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -648,7 +648,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Layouts and pages.md",
+                "file": "Layouts and pages and routes in next.js.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -661,7 +661,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Layouts and pages.md",
+                "file": "Meta Data in Next.js.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -852,7 +852,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Layouts and pages.md",
+                "file": "Meta Data in Next.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -869,7 +869,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Layouts and pages.md",
+                "file": "Meta Data in Next.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -892,7 +892,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Layouts and pages.md"
+                "file": "Meta Data in Next.js.md"
               }
             }
           }
@@ -915,8 +915,8 @@
   },
   "active": "b06120ea2cfcf465",
   "lastOpenFiles": [
+    "Layouts and pages and routes in next.js.md",
     "Meta Data in Next.js.md",
-    "Layouts and pages.md",
     "What is next js.md",
     "SSG , ISR , SSR ,CSR in next.js.md",
     "Untitled",
