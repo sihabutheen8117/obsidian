@@ -734,6 +734,19 @@
             }
           },
           {
+            "id": "938176a0969b1c58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routes in Next.js.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eefbb920c94fcc6c",
             "type": "leaf",
             "state": {
@@ -851,7 +864,7 @@
             }
           }
         ],
-        "currentTab": 56
+        "currentTab": 57
       }
     ],
     "direction": "vertical"
@@ -917,7 +930,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Special files in NEXT.js.md",
+                "file": "Routes in Next.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -934,7 +947,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Special files in NEXT.js.md",
+                "file": "Routes in Next.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -957,7 +970,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Special files in NEXT.js.md"
+                "file": "Routes in Next.js.md"
               }
             }
           }
@@ -978,10 +991,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "405e8bc334448029",
+  "active": "938176a0969b1c58",
   "lastOpenFiles": [
-    "Navigate programmatically in NEXT.js.md",
     "Special files in NEXT.js.md",
+    "Routes in Next.js.md",
+    "Navigate programmatically in NEXT.js.md",
     "API/RESTful APIs.md",
     "API/What is API.md",
     "Next_js/Navigation in Next.js.md",
@@ -1009,7 +1023,6 @@
     "React - Redux Toolkit",
     "Axios/PUT or PATCH Axios.md",
     "Express js/PUT and PATCH req in express..md",
-    "Axios/Post axios.md",
     "Computer Networks",
     "Axios",
     "Express js",

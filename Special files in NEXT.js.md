@@ -32,6 +32,7 @@ for create a template file just name it as **template.tsx** or **template.js**
 - we can add the reset button to rerender the component in client side.
 - for that. in error file. we get reset function as the props ( dont worry , simply put reset in the argument as props )
 - and use it when props invoked the component will be rerendered.
+- mind it the error boundary is placed below to the layout component , so we need to define the error to the upper route if we want to catch the error in layout component.
 
 
 
