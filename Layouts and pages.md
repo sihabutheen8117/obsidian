@@ -3,7 +3,19 @@
 - every route has a layout
 - layout returns it children as pages,
 
-- pages is the children of the layout , which returns the actual react component.
-- actually every folder below the app is route,
+#### Layouts
+- layouts is the template of the router
+- every pages under the router can pass through the layout.
+- so that if we add the anything in the layout it is applicable for the all which is belongs to that router.
 
-- for more details visit next js docs or dave gray youtube channel.
+#### Pages
+- Every route must have one page.tsx or page.js file.
+- the template returns the page in their children props.
+- after the router calls the page file will show to the user.
+
+### NOTE
+- every folder under the app or src/app will be treated as the routes.
+- 
+
+
+

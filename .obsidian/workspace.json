@@ -648,7 +648,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is next js.md",
+                "file": "Layouts and pages.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b06120ea2cfcf465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Layouts and pages.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -773,7 +786,7 @@
             }
           }
         ],
-        "currentTab": 50
+        "currentTab": 51
       }
     ],
     "direction": "vertical"
@@ -839,7 +852,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is next js.md",
+                "file": "Layouts and pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -856,7 +869,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is next js.md",
+                "file": "Layouts and pages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -879,7 +892,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is next js.md"
+                "file": "Layouts and pages.md"
               }
             }
           }
@@ -900,11 +913,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a66ace9e3ddf1ddd",
+  "active": "b06120ea2cfcf465",
   "lastOpenFiles": [
-    "SSG , ISR , SSR ,CSR in next.js.md",
-    "What is next js.md",
+    "Meta Data in Next.js.md",
     "Layouts and pages.md",
+    "What is next js.md",
+    "SSG , ISR , SSR ,CSR in next.js.md",
     "Untitled",
     "React - Redux Toolkit/Structure and DataFlow - react-Redux.md",
     "Next_js",
@@ -931,7 +945,6 @@
     "Axios/Error Handling in Axios.md",
     "Axios/DELETE Axios.md",
     "Axios/CUSTOM HEADERS.md",
-    "Axios/Cancel Tokens in Axios ..md",
     "Computer Networks",
     "Axios",
     "Express js",
