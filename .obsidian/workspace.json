@@ -713,7 +713,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigate programmatically in NEXT.js.md",
+                "file": "Next_js/Navigate programmatically in NEXT.js.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -726,7 +726,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Special files in NEXT.js.md",
+                "file": "Next_js/Special files in NEXT.js.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -737,13 +737,8 @@
             "id": "938176a0969b1c58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Routes in Next.js.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -930,7 +925,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Routes in Next.js.md",
+                "file": "React_js/JavaScript ES6 and ES7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -947,7 +942,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routes in Next.js.md",
+                "file": "React_js/JavaScript ES6 and ES7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -970,7 +965,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Routes in Next.js.md"
+                "file": "React_js/JavaScript ES6 and ES7.md"
               }
             }
           }
@@ -991,12 +986,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "938176a0969b1c58",
+  "active": "a4c0fe0904988e8f",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Next_js/Routes in Next.js.md",
+    "Pyhton and DSA",
     "[Next.js.md",
-    "Routes in Next.js.md",
-    "Special files in NEXT.js.md",
-    "Navigate programmatically in NEXT.js.md",
+    "Next_js/Special files in NEXT.js.md",
+    "Next_js/Navigate programmatically in NEXT.js.md",
     "API/RESTful APIs.md",
     "API/What is API.md",
     "Next_js/Navigation in Next.js.md",
@@ -1022,13 +1019,10 @@
     "Express js/Validation in Express..md",
     "React_js/Router.md",
     "React - Redux Toolkit",
-    "Axios/PUT or PATCH Axios.md",
     "Computer Networks",
     "Axios",
     "Express js",
-    "Untitled.canvas",
     "MongoDB",
-    "FusionWorks",
-    "RPA"
+    "FusionWorks"
   ]
 }
