@@ -7,6 +7,6 @@ if request axios returns a promiss so it is called promise based.
 
 ##### install
 ```
-npm -i axios
+npm i axios
 ```
 

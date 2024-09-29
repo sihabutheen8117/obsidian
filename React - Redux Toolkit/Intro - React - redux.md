@@ -47,7 +47,7 @@ reactDOM.render(
 #### Step 3
 
 - create a feature dir inside the src.
-- inside this fe dir we can create many features we want.
+- inside this feature dir we can create many features we want.
 - for example we create counter.
 - inside the counter , we create a Slice for a counter.
 - create counterSlice.js

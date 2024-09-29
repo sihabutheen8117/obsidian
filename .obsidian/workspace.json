@@ -739,7 +739,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Express js/What is Express js.md",
+                "file": "React - Redux Toolkit/Intro - React - redux.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -930,7 +930,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Express js/What is Express js.md",
+                "file": "React - Redux Toolkit/Intro - React - redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -947,7 +947,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Express js/What is Express js.md",
+                "file": "React - Redux Toolkit/Intro - React - redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -970,7 +970,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Express js/What is Express js.md"
+                "file": "React - Redux Toolkit/Intro - React - redux.md"
               }
             }
           }
@@ -993,6 +993,14 @@
   },
   "active": "938176a0969b1c58",
   "lastOpenFiles": [
+    "React - Redux Toolkit/Structure and DataFlow - react-Redux.md",
+    "React - Redux Toolkit/Intro - React - redux.md",
+    "React - Redux Toolkit/what is redux.md",
+    "Axios/Simultaneous REQ axios.md",
+    "Axios/INTERCEPT REQ AND RES Axios.md",
+    "Axios/Transforming req and res Axios.md",
+    "Axios/What is axios.md",
+    "Express js/What is Express js.md",
     "Express js/Routers in Express.md",
     "Express js/Route Params express.md",
     "Express js/POST req in Express.md",
@@ -1006,7 +1014,6 @@
     "Express js/Cookies in Express.md",
     "Express js/OAuth2 in Express.md",
     "Express js/Validation in Express..md",
-    "Express js/What is Express js.md",
     "React_js/JavaScript ES6 and ES7.md",
     "Untitled.canvas",
     "Next_js/Routes in Next.js.md",
@@ -1014,14 +1021,7 @@
     "[Next.js.md",
     "Next_js/Special files in NEXT.js.md",
     "Next_js/Navigate programmatically in NEXT.js.md",
-    "API/RESTful APIs.md",
-    "API/What is API.md",
-    "Next_js/Navigation in Next.js.md",
     "API",
-    "Next_js/Layouts and pages in next.js.md",
-    "Next_js/Meta Data in Next.js.md",
-    "Next_js/What is next js.md",
-    "Next_js/SSG , ISR , SSR ,CSR in next.js.md",
     "Next_js",
     "MERN stack - Edu net",
     "React - Redux Toolkit",
