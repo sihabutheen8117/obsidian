@@ -737,8 +737,13 @@
             "id": "938176a0969b1c58",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Express js/What is Express js.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -925,7 +930,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React_js/JavaScript ES6 and ES7.md",
+                "file": "Express js/What is Express js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -942,7 +947,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React_js/JavaScript ES6 and ES7.md",
+                "file": "Express js/What is Express js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -965,7 +970,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React_js/JavaScript ES6 and ES7.md"
+                "file": "Express js/What is Express js.md"
               }
             }
           }
@@ -986,8 +991,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4c0fe0904988e8f",
+  "active": "938176a0969b1c58",
   "lastOpenFiles": [
+    "Express js/Routers in Express.md",
+    "Express js/Route Params express.md",
+    "Express js/POST req in Express.md",
+    "Express js/Passport js in Express.md",
+    "Express js/MiddleWares in Express.md",
+    "Express js/Import Express.md",
+    "Express js/Hashing Password in Express.md",
+    "Express js/Get Req Express.md",
+    "Express js/DELETE req in express..md",
+    "Express js/DataBase and Mongodb in Express.js.md",
+    "Express js/Cookies in Express.md",
+    "Express js/OAuth2 in Express.md",
+    "Express js/Validation in Express..md",
+    "Express js/What is Express js.md",
+    "React_js/JavaScript ES6 and ES7.md",
     "Untitled.canvas",
     "Next_js/Routes in Next.js.md",
     "Pyhton and DSA",
@@ -1002,22 +1022,8 @@
     "Next_js/Meta Data in Next.js.md",
     "Next_js/What is next js.md",
     "Next_js/SSG , ISR , SSR ,CSR in next.js.md",
-    "React - Redux Toolkit/Structure and DataFlow - react-Redux.md",
     "Next_js",
-    "React - Redux Toolkit/Intro - React - redux.md",
-    "React - Redux Toolkit/what is redux.md",
-    "MERN stack - Edu net/Module - 2 - frontend.md",
-    "MERN stack - Edu net/Module 1 - Intro to MERN stack tools and tech.md",
     "MERN stack - Edu net",
-    "Express js/OAuth2 in Express.md",
-    "Express js/Sessions in Express.md",
-    "Express js/Hashing Password in Express.md",
-    "Express js/DataBase and Mongodb in Express.js.md",
-    "Express js/Passport js in Express.md",
-    "Express js/Routers in Express.md",
-    "Express js/Cookies in Express.md",
-    "Express js/Validation in Express..md",
-    "React_js/Router.md",
     "React - Redux Toolkit",
     "Computer Networks",
     "Axios",

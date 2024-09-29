@@ -4,6 +4,7 @@
 
 #### install express
 ```
+npm init -y
 npm i express
 
 ```
