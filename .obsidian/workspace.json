@@ -739,7 +739,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axios/PUT or PATCH Axios.md",
+                "file": "React - Redux Toolkit/Intro - React - redux.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -930,7 +930,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Axios/PUT or PATCH Axios.md",
+                "file": "React - Redux Toolkit/Intro - React - redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -947,7 +947,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Axios/PUT or PATCH Axios.md",
+                "file": "React - Redux Toolkit/Intro - React - redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -970,7 +970,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Axios/PUT or PATCH Axios.md"
+                "file": "React - Redux Toolkit/Intro - React - redux.md"
               }
             }
           }
@@ -993,8 +993,11 @@
   },
   "active": "938176a0969b1c58",
   "lastOpenFiles": [
-    "Axios/Simultaneous REQ axios.md",
+    "React - Redux Toolkit/Structure and DataFlow - react-Redux.md",
+    "React - Redux Toolkit/Intro - React - redux.md",
+    "React - Redux Toolkit/what is redux.md",
     "Axios/PUT or PATCH Axios.md",
+    "Axios/Simultaneous REQ axios.md",
     "Axios/CUSTOM HEADERS.md",
     "Axios/Cancel Tokens in Axios ..md",
     "Axios/Axios Instance.md",
@@ -1006,9 +1009,6 @@
     "Express js/What is Express js.md",
     "Express js/DataBase and Mongodb in Express.js.md",
     "React_js/Router.md",
-    "React - Redux Toolkit/Intro - React - redux.md",
-    "React - Redux Toolkit/Structure and DataFlow - react-Redux.md",
-    "React - Redux Toolkit/what is redux.md",
     "Axios/INTERCEPT REQ AND RES Axios.md",
     "Express js/Routers in Express.md",
     "Express js/Route Params express.md",
