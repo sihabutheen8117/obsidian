@@ -23,5 +23,7 @@ return value of the id will be string , we need to parse the string
 use parseInt() function to convert them.
 
 
+next -> [[QUERY PARAMS]]
+
 
 

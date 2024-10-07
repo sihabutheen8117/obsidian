@@ -17,10 +17,12 @@ console.log(req.query)
 
 Output :
 ```
-{ filter ; 'express'}
+{ filter : 'express'}
 ```
 return value will be json
 
+
+Route params-> [[Route Params express]]
 
 
 
