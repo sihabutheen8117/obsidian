@@ -739,7 +739,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axios/Error Handling in Axios.md",
+                "file": "Express js/Passport js in Express.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -930,7 +930,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Axios/Error Handling in Axios.md",
+                "file": "Express js/Passport js in Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -947,7 +947,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Axios/Error Handling in Axios.md",
+                "file": "Express js/Passport js in Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -970,7 +970,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Axios/Error Handling in Axios.md"
+                "file": "Express js/Passport js in Express.md"
               }
             }
           }
@@ -993,8 +993,22 @@
   },
   "active": "938176a0969b1c58",
   "lastOpenFiles": [
-    "Axios/Simultaneous REQ axios.md",
+    "Express js/OAuth2 in Express.md",
+    "Express js/MiddleWares in Express.md",
+    "Express js/Import Express.md",
+    "Express js/QUERY PARAMS.md",
+    "Express js/Route Params express.md",
+    "Express js/Routers in Express.md",
+    "Express js/Sessions in Express.md",
+    "Express js/What is Express js.md",
+    "Express js/Hashing Password in Express.md",
+    "Express js/Get Req Express.md",
+    "Express js/DELETE req in express..md",
+    "Express js/DataBase and Mongodb in Express.js.md",
+    "Express js/Cookies in Express.md",
+    "Express js/Validation in Express..md",
     "Axios/Error Handling in Axios.md",
+    "Axios/Simultaneous REQ axios.md",
     "Axios/DELETE Axios.md",
     "Axios/CUSTOM HEADERS.md",
     "Axios/Cancel Tokens in Axios ..md",
@@ -1005,20 +1019,6 @@
     "Axios/PUT or PATCH Axios.md",
     "Axios/Get Axios.md",
     "Axios/Post axios.md",
-    "Axios/Transforming req and res Axios.md",
-    "Axios/What is axios.md",
-    "React - Redux Toolkit/Structure and DataFlow - react-Redux.md",
-    "React - Redux Toolkit/Intro - React - redux.md",
-    "React - Redux Toolkit/what is redux.md",
-    "Express js/Validation in Express..md",
-    "Express js/What is Express js.md",
-    "Express js/DataBase and Mongodb in Express.js.md",
-    "React_js/Router.md",
-    "Express js/Routers in Express.md",
-    "Express js/Route Params express.md",
-    "Express js/POST req in Express.md",
-    "Express js/Passport js in Express.md",
-    "Express js/MiddleWares in Express.md",
     "Untitled.canvas",
     "Pyhton and DSA",
     "API",
