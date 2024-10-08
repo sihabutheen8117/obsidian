@@ -16,7 +16,7 @@ Example :
 server
 ```
 app.post('url' ,(req,res)=>{
-	console.body(req.body);
+	console.log(req.body);
 })
 ```
 output : undefined.
