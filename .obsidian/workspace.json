@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript ES6 and ES7"
             }
           },
           {
@@ -30,7 +32,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "React Component"
             }
           },
           {
@@ -43,7 +47,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "REACT DOM (start)"
             }
           },
           {
@@ -56,7 +62,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "State"
             }
           },
           {
@@ -69,7 +77,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "React Life Cycle"
             }
           },
           {
@@ -82,7 +92,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript ES6 and ES7"
             }
           },
           {
@@ -95,7 +107,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "State"
             }
           },
           {
@@ -108,7 +122,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "React Hooks"
             }
           },
           {
@@ -121,7 +137,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "React Axios Hooks (API)"
             }
           },
           {
@@ -134,7 +152,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Start"
             }
           },
           {
@@ -147,7 +167,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "What is axios"
             }
           },
           {
@@ -160,7 +182,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Get Axios"
             }
           },
           {
@@ -173,7 +197,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Post axios"
             }
           },
           {
@@ -186,7 +212,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "PUT or PATCH Axios"
             }
           },
           {
@@ -199,7 +227,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "DELETE Axios"
             }
           },
           {
@@ -212,7 +242,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Simultaneous REQ axios"
             }
           },
           {
@@ -225,7 +257,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "INTERCEPT REQ AND RES Axios"
             }
           },
           {
@@ -238,7 +272,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "CUSTOM HEADERS"
             }
           },
           {
@@ -251,7 +287,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Transforming req and res Axios"
             }
           },
           {
@@ -264,7 +302,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Axios Globals"
             }
           },
           {
@@ -277,7 +317,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Error Handling in Axios"
             }
           },
           {
@@ -290,7 +332,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Cancel Tokens in Axios ."
             }
           },
           {
@@ -303,7 +347,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Axios Instance"
             }
           },
           {
@@ -316,7 +362,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Simultaneous REQ axios"
             }
           },
           {
@@ -329,7 +377,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "What is Express js"
             }
           },
           {
@@ -342,7 +392,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Import Express"
             }
           },
           {
@@ -355,7 +407,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Get Req Express"
             }
           },
           {
@@ -363,7 +417,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -376,7 +432,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "OSI reference model"
             }
           },
           {
@@ -384,7 +442,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -397,7 +457,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "QUERY PARAMS"
             }
           },
           {
@@ -410,7 +472,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "POST req in Express"
             }
           },
           {
@@ -423,7 +487,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "PUT and PATCH req in express."
             }
           },
           {
@@ -436,7 +502,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "DELETE req in express."
             }
           },
           {
@@ -449,7 +517,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "MiddleWares in Express"
             }
           },
           {
@@ -462,7 +532,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Router"
             }
           },
           {
@@ -475,7 +547,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Validation in Express."
             }
           },
           {
@@ -488,7 +562,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Routers in Express"
             }
           },
           {
@@ -501,7 +577,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Routers in Express"
             }
           },
           {
@@ -514,7 +592,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sessions in Express"
             }
           },
           {
@@ -527,7 +607,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Passport js in Express"
             }
           },
           {
@@ -540,7 +622,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "DataBase and Mongodb in Express.js"
             }
           },
           {
@@ -553,7 +637,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sessions in Express"
             }
           },
           {
@@ -561,7 +647,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -574,7 +662,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Module 1 - Intro to MERN stack tools and tech"
             }
           },
           {
@@ -587,7 +677,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "what is redux"
             }
           },
           {
@@ -600,7 +692,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Intro - React - redux"
             }
           },
           {
@@ -613,7 +707,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Structure and DataFlow - react-Redux"
             }
           },
           {
@@ -626,7 +722,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "What is next js"
             }
           },
           {
@@ -639,7 +737,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Layouts and pages in next.js"
             }
           },
           {
@@ -652,7 +752,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Layouts and pages in next.js"
             }
           },
           {
@@ -665,7 +767,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Layouts and pages in next.js"
             }
           },
           {
@@ -678,7 +782,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Navigation in Next.js"
             }
           },
           {
@@ -691,7 +797,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "What is API"
             }
           },
           {
@@ -704,7 +812,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "RESTful APIs"
             }
           },
           {
@@ -717,7 +827,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Navigate programmatically in NEXT.js"
             }
           },
           {
@@ -730,7 +842,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Special files in NEXT.js"
             }
           },
           {
@@ -738,7 +852,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -751,7 +867,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Static keyword"
             }
           },
           {
@@ -764,7 +882,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Method Overloading"
             }
           },
           {
@@ -777,7 +897,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "OOPs"
             }
           },
           {
@@ -790,7 +912,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Java Modifiers"
             }
           },
           {
@@ -803,7 +927,21 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Enums"
+            }
+          },
+          {
+            "id": "5e1c35d4e71f4520",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           },
           {
@@ -816,7 +954,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Main"
             }
           },
           {
@@ -829,7 +969,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "DataBase"
             }
           },
           {
@@ -842,7 +984,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Main"
             }
           },
           {
@@ -855,7 +999,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript ES6 and ES7"
             }
           },
           {
@@ -868,7 +1014,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chrome V8 Engine"
             }
           },
           {
@@ -881,7 +1029,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "JS runtime"
             }
           },
           {
@@ -894,7 +1044,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Start"
             }
           },
           {
@@ -907,7 +1059,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Node code start"
             }
           },
           {
@@ -920,11 +1074,13 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "modules"
             }
           }
         ],
-        "currentTab": 62
+        "currentTab": 63
       }
     ],
     "direction": "vertical"
@@ -944,7 +1100,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -959,7 +1117,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -967,7 +1127,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -990,7 +1152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Enums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -998,7 +1159,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -1007,10 +1170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Enums.md",
+                "file": "React_js/JavaScript ES6 and ES7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from JavaScript ES6 and ES7"
             }
           },
           {
@@ -1021,7 +1186,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -1030,8 +1197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Enums.md"
-              }
+                "file": "React_js/JavaScript ES6 and ES7.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of JavaScript ES6 and ES7"
             }
           }
         ]
@@ -1051,7 +1220,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2ad19504c0d265e",
+  "active": "5e1c35d4e71f4520",
   "lastOpenFiles": [
     "Java/Java Modifiers.md",
     "Java/Enums.md",
