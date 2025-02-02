@@ -300,11 +300,41 @@
               "state": {
                 "file": "Axios/Axios Globals.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Axios Globals"
+            }
+          },
+          {
+            "id": "e14d29e4b61ef2d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Express js/MiddleWares in Express.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MiddleWares in Express"
+            }
+          },
+          {
+            "id": "60f963a9e5c4a744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Micro Processor and controller/8085 - Micro Processor - Architecture.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "8085 - Micro Processor - Architecture"
             }
           },
           {
@@ -1080,7 +1110,7 @@
             }
           }
         ],
-        "currentTab": 63
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -1099,7 +1129,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -1112,7 +1143,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -1152,16 +1183,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Micro Processor and controller/8085 - Micro Processor - Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 8085 - Micro Processor - Architecture"
             }
           },
           {
@@ -1170,12 +1202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React_js/JavaScript ES6 and ES7.md",
+                "file": "Axios/Axios Globals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from JavaScript ES6 and ES7"
+              "title": "Outgoing links from Axios Globals"
             }
           },
           {
@@ -1197,10 +1229,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React_js/JavaScript ES6 and ES7.md"
+                "file": "Axios/Axios Globals.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of JavaScript ES6 and ES7"
+              "title": "Outline of Axios Globals"
             }
           }
         ]
@@ -1220,15 +1252,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e1c35d4e71f4520",
+  "active": "60f963a9e5c4a744",
   "lastOpenFiles": [
+    "Express js/MiddleWares in Express.md",
+    "Micro Processor and controller/8085 - Micro Processor - Architecture.md",
+    "Micro Processor and controller",
+    "2025-02-02.md",
     "Java/Java Modifiers.md",
     "Java/Enums.md",
     "Java/OOPs.md",
     "Java/Method Overloading.md",
     "Java/Static keyword.md",
     "Java",
-    "Express js/MiddleWares in Express.md",
     "Express js/Import Express.md",
     "Express js/DELETE req in express..md",
     "Express js/QUERY PARAMS.md",
@@ -1247,8 +1282,6 @@
     "Axios/Error Handling in Axios.md",
     "Axios/Simultaneous REQ axios.md",
     "Axios/DELETE Axios.md",
-    "Axios/CUSTOM HEADERS.md",
-    "Axios/Cancel Tokens in Axios ..md",
     "Untitled.canvas",
     "Pyhton and DSA",
     "API",
@@ -1257,7 +1290,6 @@
     "React - Redux Toolkit",
     "Computer Networks",
     "Axios",
-    "Express js",
-    "MongoDB"
+    "Express js"
   ]
 }
