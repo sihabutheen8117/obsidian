@@ -338,35 +338,6 @@
             }
           },
           {
-            "id": "f838cd117906dce8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 70.68,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "75ce2200c0f6f659",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-04-09 09.17.43.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-09 09.17.43.excalidraw"
-            }
-          },
-          {
             "id": "b98eb44500030fc4",
             "type": "leaf",
             "state": {
@@ -1137,9 +1108,36 @@
               "icon": "lucide-file",
               "title": "modules"
             }
+          },
+          {
+            "id": "097bc4f0d21edb7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "d85d48e6b247866c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Next JS/Drawing 2025-04-09 20.41.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-09 20.41.49.excalidraw"
+            }
           }
         ],
-        "currentTab": 23
+        "currentTab": 76
       }
     ],
     "direction": "vertical"
@@ -1212,7 +1210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-09 09.17.43.excalidraw.md",
+                "file": "Next JS/Drawing 2025-04-09 20.41.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1222,7 +1220,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-04-09 09.17.43.excalidraw"
+              "title": "Backlinks for Drawing 2025-04-09 20.41.49.excalidraw"
             }
           },
           {
@@ -1231,12 +1229,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Axios/Axios Globals.md",
+                "file": "Next JS/Drawing 2025-04-09 20.41.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Axios Globals"
+              "title": "Outgoing links from Drawing 2025-04-09 20.41.49.excalidraw"
             }
           },
           {
@@ -1246,7 +1244,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -1258,17 +1258,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Axios/Axios Globals.md"
+                "file": "Next JS/Drawing 2025-04-09 20.41.49.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Axios Globals"
+              "title": "Outline of Drawing 2025-04-09 20.41.49.excalidraw"
+            }
+          },
+          {
+            "id": "66c53eb13e0d8a6d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1282,12 +1297,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "75ce2200c0f6f659",
+  "active": "d85d48e6b247866c",
   "lastOpenFiles": [
-    "Next_js/Layouts and pages in next.js.md",
-    "Excalidraw/Drawing 2025-04-09 09.17.43.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-09 20.41.41.excalidraw.md",
+    "Next JS/Drawing 2025-04-09 20.41.49.excalidraw.md",
+    "Untitled.md",
     "Untitled.canvas",
     "Excalidraw",
+    "Next JS",
+    "Excalidraw/Drawing 2025-04-09 09.17.43.excalidraw.md",
+    "Next_js/Layouts and pages in next.js.md",
     "Next_js/Navigation in Next.js.md",
     "Next_js/Navigate programmatically in NEXT.js.md",
     "Next_js/Meta Data in Next.js.md",
@@ -1312,14 +1331,11 @@
     "Express js/Validation in Express..md",
     "Express js/OAuth2 in Express.md",
     "Express js/Hashing Password in Express.md",
-    "Express js/Cookies in Express.md",
-    "Express js/DataBase and Mongodb in Express.js.md",
     "Pyhton and DSA",
     "API",
     "Next_js",
     "MERN stack - Edu net",
     "React - Redux Toolkit",
-    "Computer Networks",
-    "Axios"
+    "Computer Networks"
   ]
 }
