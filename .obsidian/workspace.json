@@ -1130,10 +1130,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Next JS/Drawing 2025-04-09 20.41.49.excalidraw.md"
+                "file": "Next JS/Routing.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-09 20.41.49.excalidraw"
+              "title": "Routing"
             }
           }
         ],
@@ -1210,7 +1210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next JS/Drawing 2025-04-09 20.41.49.excalidraw.md",
+                "file": "Next JS/Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1220,7 +1220,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-04-09 20.41.49.excalidraw"
+              "title": "Backlinks for Routing"
             }
           },
           {
@@ -1229,12 +1229,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next JS/Drawing 2025-04-09 20.41.49.excalidraw.md",
+                "file": "Next JS/Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-04-09 20.41.49.excalidraw"
+              "title": "Outgoing links from Routing"
             }
           },
           {
@@ -1258,13 +1258,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next JS/Drawing 2025-04-09 20.41.49.excalidraw.md",
+                "file": "Next JS/Routing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-04-09 20.41.49.excalidraw"
+              "title": "Outline of Routing"
             }
           },
           {
@@ -1300,7 +1300,7 @@
   "active": "d85d48e6b247866c",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-04-09 20.41.41.excalidraw.md",
-    "Next JS/Drawing 2025-04-09 20.41.49.excalidraw.md",
+    "Next JS/Routing.md",
     "Untitled.md",
     "Untitled.canvas",
     "Excalidraw",
