@@ -1130,14 +1130,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Next JS/Routing.md"
+                "file": "Next JS/Next js map.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Routing"
+              "title": "Next js map"
+            }
+          },
+          {
+            "id": "dd19a2cd0b9cbefc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Next JS/Next js map.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Next js map"
             }
           }
         ],
-        "currentTab": 76
+        "currentTab": 77
       }
     ],
     "direction": "vertical"
@@ -1210,7 +1222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next JS/Routing.md",
+                "file": "Next JS/Next js map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1220,7 +1232,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Routing"
+              "title": "Backlinks for Next js map"
             }
           },
           {
@@ -1229,12 +1241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next JS/Routing.md",
+                "file": "Next JS/Next js map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Routing"
+              "title": "Outgoing links from Next js map"
             }
           },
           {
@@ -1258,13 +1270,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next JS/Routing.md",
+                "file": "Next JS/Next js map.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Routing"
+              "title": "Outline of Next js map"
             }
           },
           {
@@ -1297,10 +1309,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d85d48e6b247866c",
+  "active": "dd19a2cd0b9cbefc",
   "lastOpenFiles": [
+    "Next JS/Routes Next js/Dynamic routes.md",
+    "Next JS/Next js map.md",
+    "Routes next js.md",
+    "Next JS/Routes Next js",
+    "Micro Processor and controller/8085 - Micro Processor - Architecture.md",
     "Excalidraw/Drawing 2025-04-09 20.41.41.excalidraw.md",
-    "Next JS/Routing.md",
     "Untitled.md",
     "Untitled.canvas",
     "Excalidraw",
@@ -1310,7 +1326,6 @@
     "Next_js/Navigation in Next.js.md",
     "Next_js/Navigate programmatically in NEXT.js.md",
     "Next_js/Meta Data in Next.js.md",
-    "Micro Processor and controller/8085 - Micro Processor - Architecture.md",
     "Pasted image 20250202113447.jpg",
     "Express js/MiddleWares in Express.md",
     "Micro Processor and controller",
@@ -1329,13 +1344,10 @@
     "Express js/Passport js in Express.md",
     "Express js/POST req in Express.md",
     "Express js/Validation in Express..md",
-    "Express js/OAuth2 in Express.md",
-    "Express js/Hashing Password in Express.md",
     "Pyhton and DSA",
     "API",
     "Next_js",
     "MERN stack - Edu net",
-    "React - Redux Toolkit",
-    "Computer Networks"
+    "React - Redux Toolkit"
   ]
 }
