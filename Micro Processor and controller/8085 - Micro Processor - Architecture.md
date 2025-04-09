@@ -5,3 +5,4 @@
 #### The architecture of the 8085 microprocessor consists of several key components, including the accumulator, registers, program counter, stack pointer, instruction register, flags register, data bus, address bus, and control bus
 
 
+![[Pasted image 20250202113447.jpg]]

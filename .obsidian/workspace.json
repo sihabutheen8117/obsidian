@@ -328,13 +328,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Micro Processor and controller/8085 - Micro Processor - Architecture.md",
+                "file": "Next_js/Routes in Next.js.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "8085 - Micro Processor - Architecture"
+              "title": "Routes in Next.js"
             }
           },
           {
@@ -1183,7 +1183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Micro Processor and controller/8085 - Micro Processor - Architecture.md",
+                "file": "Next_js/Routes in Next.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1193,7 +1193,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 8085 - Micro Processor - Architecture"
+              "title": "Backlinks for Routes in Next.js"
             }
           },
           {
@@ -1254,8 +1254,13 @@
   },
   "active": "60f963a9e5c4a744",
   "lastOpenFiles": [
-    "Express js/MiddleWares in Express.md",
+    "Next_js/Navigation in Next.js.md",
+    "Next_js/Navigate programmatically in NEXT.js.md",
+    "Next_js/Meta Data in Next.js.md",
+    "Next_js/Layouts and pages in next.js.md",
     "Micro Processor and controller/8085 - Micro Processor - Architecture.md",
+    "Pasted image 20250202113447.jpg",
+    "Express js/MiddleWares in Express.md",
     "Micro Processor and controller",
     "2025-02-02.md",
     "Java/Java Modifiers.md",
@@ -1278,10 +1283,6 @@
     "Express js/DataBase and Mongodb in Express.js.md",
     "Express js/Routers in Express.md",
     "Express js/What is Express js.md",
-    "Express js/Get Req Express.md",
-    "Axios/Error Handling in Axios.md",
-    "Axios/Simultaneous REQ axios.md",
-    "Axios/DELETE Axios.md",
     "Untitled.canvas",
     "Pyhton and DSA",
     "API",
