@@ -346,12 +346,24 @@
                 "file": "Untitled.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 0,
+                  "y": 70.68,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Untitled"
+            }
+          },
+          {
+            "id": "75ce2200c0f6f659",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-09 09.17.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-09 09.17.43.excalidraw"
             }
           },
           {
@@ -1127,7 +1139,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -1200,7 +1212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next_js/Routes in Next.js.md",
+                "file": "Excalidraw/Drawing 2025-04-09 09.17.43.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1210,7 +1222,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Routes in Next.js"
+              "title": "Backlinks for Drawing 2025-04-09 09.17.43.excalidraw"
             }
           },
           {
@@ -1256,8 +1268,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1267,16 +1278,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f838cd117906dce8",
+  "active": "75ce2200c0f6f659",
   "lastOpenFiles": [
+    "Next_js/Layouts and pages in next.js.md",
+    "Excalidraw/Drawing 2025-04-09 09.17.43.excalidraw.md",
     "Untitled.canvas",
+    "Excalidraw",
     "Next_js/Navigation in Next.js.md",
     "Next_js/Navigate programmatically in NEXT.js.md",
     "Next_js/Meta Data in Next.js.md",
-    "Next_js/Layouts and pages in next.js.md",
     "Micro Processor and controller/8085 - Micro Processor - Architecture.md",
     "Pasted image 20250202113447.jpg",
     "Express js/MiddleWares in Express.md",
@@ -1300,14 +1314,12 @@
     "Express js/Hashing Password in Express.md",
     "Express js/Cookies in Express.md",
     "Express js/DataBase and Mongodb in Express.js.md",
-    "Express js/Routers in Express.md",
     "Pyhton and DSA",
     "API",
     "Next_js",
     "MERN stack - Edu net",
     "React - Redux Toolkit",
     "Computer Networks",
-    "Axios",
-    "Express js"
+    "Axios"
   ]
 }
