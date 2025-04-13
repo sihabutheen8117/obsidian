@@ -11,12 +11,27 @@
             "id": "19e67c053da52f53",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "9985caa693abccc7",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Next JS/Next js map.md"
+                "file": "React Query/Drawing 2025-04-13 21.59.39.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Next js map"
+              "title": "Drawing 2025-04-13 21.59.39.excalidraw"
             }
           },
           {
@@ -1160,7 +1175,8 @@
               "title": "Next js map"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -1320,8 +1336,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c42f04751ab596b5",
+  "active": "a4c0fe0904988e8f",
   "lastOpenFiles": [
+    "Untitled.md",
+    "React Query/Drawing 2025-04-13 21.59.39.excalidraw.md",
+    "React Query",
     "Next JS/Next js map.md",
     "Next JS/NoFound page.md",
     "React_js/JavaScript ES6 and ES7.md",
@@ -1338,7 +1357,6 @@
     "Next JS/Routes Next js",
     "Micro Processor and controller/8085 - Micro Processor - Architecture.md",
     "Excalidraw/Drawing 2025-04-09 20.41.41.excalidraw.md",
-    "Untitled.md",
     "Untitled.canvas",
     "Excalidraw",
     "Next JS",
@@ -1353,12 +1371,10 @@
     "Java/Java Modifiers.md",
     "Java/Enums.md",
     "Java/OOPs.md",
-    "Java/Method Overloading.md",
     "Java",
     "Pyhton and DSA",
     "API",
     "Next_js",
-    "MERN stack - Edu net",
-    "React - Redux Toolkit"
+    "MERN stack - Edu net"
   ]
 }
