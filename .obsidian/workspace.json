@@ -15,8 +15,8 @@
               "state": {
                 "file": "React_js/JavaScript ES6 and ES7.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "JavaScript ES6 and ES7"
@@ -1163,8 +1163,7 @@
               "title": "Next js map"
             }
           }
-        ],
-        "currentTab": 78
+        ]
       }
     ],
     "direction": "vertical"
@@ -1324,8 +1323,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a4552352d3f229e8",
+  "active": "9cb9d54d9fca55d3",
   "lastOpenFiles": [
+    "React_js/JavaScript ES6 and ES7.md",
     "Next JS/Next js map.md",
     "React_js/Router.md",
     "Pasted image 20250202113447.jpg",
