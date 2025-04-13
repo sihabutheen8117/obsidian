@@ -11,15 +11,12 @@
             "id": "19e67c053da52f53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "React_js/JavaScript ES6 and ES7.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Next JS/Next js map.md"
               },
-              "icon": "lucide-file",
-              "title": "JavaScript ES6 and ES7"
+              "icon": "excalidraw-icon",
+              "title": "Next js map"
             }
           },
           {
@@ -1323,10 +1320,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9cb9d54d9fca55d3",
+  "active": "c42f04751ab596b5",
   "lastOpenFiles": [
-    "React_js/JavaScript ES6 and ES7.md",
     "Next JS/Next js map.md",
+    "Next JS/NoFound page.md",
+    "React_js/JavaScript ES6 and ES7.md",
     "React_js/Router.md",
     "Pasted image 20250202113447.jpg",
     "React_js/State.md",
@@ -1335,7 +1333,6 @@
     "React_js/React Axios Hooks (API).md",
     "React_js/React Component.md",
     "React_js/REACT DOM (start).md",
-    "Next JS/NoFound page.md",
     "Next JS/Routes Next js/Dynamic routes.md",
     "Routes next js.md",
     "Next JS/Routes Next js",
