@@ -26,12 +26,15 @@
             "id": "9985caa693abccc7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Next JS/Next js map.md"
+                "file": "Express js/Routers in Express.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Next js map"
+              "icon": "lucide-file",
+              "title": "Routers in Express"
             }
           },
           {
@@ -1336,8 +1339,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1ca1cfca4d023625",
+  "active": "9985caa693abccc7",
   "lastOpenFiles": [
+    "Express js/Cookies in Express.md",
+    "Express js/Import Express.md",
+    "Express js/What is Express js.md",
     "Next JS/Next js map.md",
     "React Query/Drawing 2025-04-13 21.59.39.excalidraw.md",
     "Untitled.md",
@@ -1368,9 +1374,6 @@
     "Express js/MiddleWares in Express.md",
     "Micro Processor and controller",
     "2025-02-02.md",
-    "Java/Java Modifiers.md",
-    "Java/Enums.md",
-    "Java/OOPs.md",
     "Java",
     "Pyhton and DSA",
     "API",
