@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "39909c0e3fb7e4f8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
             "id": "aff32027dc9f6acc",
             "type": "leaf",
             "state": {
@@ -1179,7 +1191,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -1339,7 +1351,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9985caa693abccc7",
+  "active": "39909c0e3fb7e4f8",
   "lastOpenFiles": [
     "Express js/Cookies in Express.md",
     "Express js/Import Express.md",
