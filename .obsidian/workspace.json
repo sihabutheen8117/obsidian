@@ -1331,9 +1331,10 @@
   },
   "active": "29c7635c14b7fa07",
   "lastOpenFiles": [
-    "DSA",
     "DSA/Bit Manipulation/General Rules Tables.md",
+    "Axios/Cancel Tokens in Axios ..md",
     "DSA/Bit Manipulation/What is bit masking.md",
+    "DSA",
     "Next_js/Meta Data in Next.js.md",
     "DSA/Bit Manipulation",
     "Next_js/Layouts and pages in next.js.md",
@@ -1367,7 +1368,6 @@
     "Next JS/Routes Next js",
     "Excalidraw",
     "Next JS",
-    "Micro Processor and controller",
-    "Java"
+    "Micro Processor and controller"
   ]
 }
