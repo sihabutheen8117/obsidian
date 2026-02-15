@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19e67c053da52f53",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "9985caa693abccc7",
             "type": "leaf",
             "state": {
@@ -30,6 +20,28 @@
               },
               "icon": "lucide-file",
               "title": "Routers in Express"
+            }
+          },
+          {
+            "id": "f4735dd8d3eb6b6f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "6359aab41d9ec219",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           },
           {
@@ -1167,7 +1179,8 @@
               "title": "Next js map"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -1224,7 +1237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 292.5
   },
   "right": {
     "id": "7a0827eaf6509c22",
@@ -1308,15 +1321,15 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -1327,8 +1340,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "73a1510b3ae528b1",
+  "active": "6359aab41d9ec219",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-12-29 11.06.59.excalidraw.md",
+    "Express js/Routers in Express.md",
+    "Untitled.canvas",
     "Next JS/Next js map.md",
     "Next JS/Routes Next js/Dynamic routes.md",
     "Node js/JS runtime.md",
@@ -1358,12 +1374,9 @@
     "Next JS/Routes Next js",
     "Micro Processor and controller/8085 - Micro Processor - Architecture.md",
     "Excalidraw/Drawing 2025-04-09 20.41.41.excalidraw.md",
-    "Untitled.canvas",
     "Excalidraw",
     "Next JS",
     "Excalidraw/Drawing 2025-04-09 09.17.43.excalidraw.md",
-    "Next_js/Layouts and pages in next.js.md",
-    "Next_js/Navigation in Next.js.md",
     "Micro Processor and controller",
     "Java",
     "Pyhton and DSA"
