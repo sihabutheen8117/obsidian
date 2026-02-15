@@ -1,6 +1,6 @@
 - it is used to cancel the request ,for some reasons
 
-```
+```javascript
 const source = axios.cancelToken.source();
 
 axios.get('url?_limit=5 ,{

@@ -1,7 +1,8 @@
 
 to implement programmatic routing or navigating we need a useRouter
 
-```
+```javascript
+
 "use client"
 
 import {useRouter} from "next/navigation"
