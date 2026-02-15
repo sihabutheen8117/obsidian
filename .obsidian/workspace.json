@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bit Manipulation/What is bit masking.md",
+                "file": "DSA/Bit Manipulation/What is bit masking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -1226,8 +1226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "7a0827eaf6509c22",
@@ -1315,8 +1314,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1333,10 +1331,11 @@
   },
   "active": "29c7635c14b7fa07",
   "lastOpenFiles": [
-    "Bit Manipulation/General Rules Tables.md",
-    "Bit Manipulation/What is bit masking.md",
+    "DSA",
+    "DSA/Bit Manipulation/General Rules Tables.md",
+    "DSA/Bit Manipulation/What is bit masking.md",
     "Next_js/Meta Data in Next.js.md",
-    "Bit Manipulation",
+    "DSA/Bit Manipulation",
     "Next_js/Layouts and pages in next.js.md",
     "Next JS/NoFound page.md",
     "Next JS/Next js map.md",
@@ -1361,7 +1360,6 @@
     "FusionWorks/DataBase.md",
     "MERN stack - Edu net/Module 1 - Intro to MERN stack tools and tech.md",
     "MERN stack - Edu net/Module - 2 - frontend.md",
-    "React_js/Context.md",
     "Aptitude/Number System",
     "Aptitude",
     "React Query",
