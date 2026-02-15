@@ -33,30 +33,6 @@
             }
           },
           {
-            "id": "6359aab41d9ec219",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
-            "id": "39909c0e3fb7e4f8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
-          },
-          {
             "id": "aff32027dc9f6acc",
             "type": "leaf",
             "state": {
@@ -64,8 +40,8 @@
               "state": {
                 "file": "React_js/React Component.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "React Component"
@@ -1340,11 +1316,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6359aab41d9ec219",
+  "active": "aff32027dc9f6acc",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "FusionWorks/Main.md",
+    "FusionWorks/Log Auth.md",
+    "FusionWorks/DataBase.md",
+    "Micro Processor and controller/8085 - Micro Processor - Architecture.md",
+    "MERN stack - Edu net/Module 1 - Intro to MERN stack tools and tech.md",
+    "MERN stack - Edu net/Module - 2 - frontend.md",
+    "Java/Method Overloading.md",
+    "Java/Java Modifiers.md",
+    "Java/Enums.md",
+    "React_js/Context.md",
+    "React Query/Drawing 2025-04-13 21.59.39.excalidraw.md",
+    "Next_js/SSG , ISR , SSR ,CSR in next.js.md",
     "Excalidraw/Drawing 2025-12-29 11.06.59.excalidraw.md",
     "Express js/Routers in Express.md",
-    "Untitled.canvas",
     "Next JS/Next js map.md",
     "Next JS/Routes Next js/Dynamic routes.md",
     "Node js/JS runtime.md",
@@ -1359,24 +1347,11 @@
     "Express js/Cookies in Express.md",
     "Express js/Import Express.md",
     "Express js/What is Express js.md",
-    "React Query/Drawing 2025-04-13 21.59.39.excalidraw.md",
     "React Query",
-    "Next JS/NoFound page.md",
-    "React_js/JavaScript ES6 and ES7.md",
     "Pasted image 20250202113447.jpg",
-    "React_js/State.md",
-    "React_js/React Life Cycle.md",
-    "React_js/React Hooks.md",
-    "React_js/React Axios Hooks (API).md",
-    "React_js/React Component.md",
-    "React_js/REACT DOM (start).md",
-    "Routes next js.md",
     "Next JS/Routes Next js",
-    "Micro Processor and controller/8085 - Micro Processor - Architecture.md",
-    "Excalidraw/Drawing 2025-04-09 20.41.41.excalidraw.md",
     "Excalidraw",
     "Next JS",
-    "Excalidraw/Drawing 2025-04-09 09.17.43.excalidraw.md",
     "Micro Processor and controller",
     "Java",
     "Pyhton and DSA"
