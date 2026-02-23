@@ -64,12 +64,15 @@
             "id": "b118631969e35774",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Docker/Drawing 2026-02-23 21.52.48.excalidraw.md"
+                "file": "Main Types of Processor Architectures.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-23 21.52.48.excalidraw"
+              "icon": "lucide-file",
+              "title": "Main Types of Processor Architectures"
             }
           },
           {
@@ -1343,10 +1346,12 @@
   },
   "active": "b118631969e35774",
   "lastOpenFiles": [
-    "DSA/Meet in the middle/What is meet in the middle.md",
-    "Docker/Drawing 2026-02-23 21.52.48.excalidraw.md",
-    "Docker/Docker Intro.md",
     "docker_host.webp",
+    "Main Types of Processor Architectures.md",
+    "Untitled.base",
+    "Docker/Docker Intro.md",
+    "Docker/Drawing 2026-02-23 21.52.48.excalidraw.md",
+    "DSA/Meet in the middle/What is meet in the middle.md",
     "DSA/Meet in the middle",
     "Docker/docker commends.md",
     "LINUX - kali",
@@ -1374,8 +1379,6 @@
     "Express js/Import Express.md",
     "Express js/Get Req Express.md",
     "Excalidraw/Drawing 2025-12-29 11.06.59.excalidraw.md",
-    "React_js/React Component.md",
-    "Untitled.base",
     "Untitled.canvas",
     "Aptitude/Number System",
     "Aptitude",
