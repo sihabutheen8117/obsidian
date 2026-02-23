@@ -19,3 +19,4 @@ firmware that generally make virtualization possible. It simply creates virtuali
 
 - Docker Hub is the world's largest container registry and cloud-based repository service provided by Docker, acting as a central library for finding, sharing, and storing container images
 
+![[docker_host.webp]]

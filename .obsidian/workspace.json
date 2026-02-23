@@ -64,15 +64,12 @@
             "id": "b118631969e35774",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Docker/Docker Intro.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Docker/Drawing 2026-02-23 21.52.48.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Docker Intro"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-23 21.52.48.excalidraw"
             }
           },
           {
@@ -1346,9 +1343,12 @@
   },
   "active": "b118631969e35774",
   "lastOpenFiles": [
-    "Docker/docker commends.md",
-    "Docker/Docker Intro.md",
+    "DSA/Meet in the middle/What is meet in the middle.md",
     "Docker/Drawing 2026-02-23 21.52.48.excalidraw.md",
+    "Docker/Docker Intro.md",
+    "docker_host.webp",
+    "DSA/Meet in the middle",
+    "Docker/docker commends.md",
     "LINUX - kali",
     "Docker/Untitled.canvas",
     "DSA/Bit Manipulation/What is bit masking.md",
@@ -1377,13 +1377,10 @@
     "React_js/React Component.md",
     "Untitled.base",
     "Untitled.canvas",
-    "FusionWorks/Main.md",
-    "FusionWorks/Log Auth.md",
     "Aptitude/Number System",
     "Aptitude",
     "React Query",
     "Pasted image 20250202113447.jpg",
-    "Next JS/Routes Next js",
-    "Excalidraw"
+    "Next JS/Routes Next js"
   ]
 }
