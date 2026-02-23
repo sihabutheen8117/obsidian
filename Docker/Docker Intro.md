@@ -12,6 +12,10 @@ firmware that generally make virtualization possible. It simply creates virtuali
 
  - an OS-level virtualization method that packages an application and all its dependencies (code, runtime, libraries, configuration files) into a single, isolated, and executable unit called a container.
  - docker uses containerazation technique to run applications
--
 
+
+
+### What is DockerHub
+
+- Docker Hub is the world's largest container registry and cloud-based repository service provided by Docker, acting as a central library for finding, sharing, and storing container images
 
