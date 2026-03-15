@@ -81,13 +81,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next JS/NoFound page.md",
+                "file": "Next JS/Next_js/Meta Data in Next.js.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "NoFound page"
+              "title": "Meta Data in Next.js"
             }
           },
           {
@@ -1361,8 +1361,16 @@
   },
   "active": "27d5fd8b6f52f903",
   "lastOpenFiles": [
-    "Next JS/Next js map.md",
+    "Next JS/Next_js/Navigate programmatically in NEXT.js.md",
+    "Next JS/Next_js/Navigation in Next.js.md",
+    "Next JS/Next_js/Routes in Next.js.md",
+    "Next JS/Next_js/SSG , ISR , SSR ,CSR in next.js.md",
+    "Next JS/Next_js/Special files in NEXT.js.md",
+    "Next JS/Next_js/What is next js.md",
+    "Next JS/Next_js/Layouts and pages in next.js.md",
     "Next JS/Routes Next js/Dynamic routes.md",
+    "Next JS/NoFound page.md",
+    "Next JS/Next js map.md",
     "Docker/Install Docker in VM - without docker desktop.md",
     "Docker/docker commends.md",
     "Main Types of Processor Architectures.md",
@@ -1379,22 +1387,14 @@
     "DSA/Bit Manipulation/General Rules Tables.md",
     "Axios/Cancel Tokens in Axios ..md",
     "DSA",
-    "Next_js/Meta Data in Next.js.md",
+    "Next JS/Next_js/Meta Data in Next.js.md",
     "DSA/Bit Manipulation",
-    "Next_js/Layouts and pages in next.js.md",
-    "Next JS/NoFound page.md",
     "Micro Processor and controller/8085 - Micro Processor - Architecture.md",
     "Java/Enums.md",
     "Java/Java Modifiers.md",
     "Java/Method Overloading.md",
     "Java/OOPs.md",
     "Express js/Hashing Password in Express.md",
-    "Express js/DELETE req in express..md",
-    "Express js/DataBase and Mongodb in Express.js.md",
-    "Express js/Passport js in Express.md",
-    "Express js/OAuth2 in Express.md",
-    "Express js/Import Express.md",
-    "Express js/Get Req Express.md",
     "Untitled.canvas",
     "Aptitude/Number System",
     "Aptitude",
