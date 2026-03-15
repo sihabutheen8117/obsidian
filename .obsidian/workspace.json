@@ -79,15 +79,12 @@
             "id": "27d5fd8b6f52f903",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Docker/Install Docker in VM - without docker desktop.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Next JS/Next js map.md"
               },
-              "icon": "lucide-file",
-              "title": "Install Docker in VM - without docker desktop"
+              "icon": "excalidraw-icon",
+              "title": "Next js map"
             }
           },
           {
@@ -1256,7 +1253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 200
   },
   "right": {
     "id": "7a0827eaf6509c22",
@@ -1361,9 +1358,10 @@
   },
   "active": "27d5fd8b6f52f903",
   "lastOpenFiles": [
+    "Next JS/Routes Next js/Dynamic routes.md",
+    "Docker/Install Docker in VM - without docker desktop.md",
     "Docker/docker commends.md",
     "Main Types of Processor Architectures.md",
-    "Docker/Install Docker in VM - without docker desktop.md",
     "docker_host.webp",
     "Untitled.base",
     "Docker/Docker Intro.md",
@@ -1394,7 +1392,6 @@
     "Express js/OAuth2 in Express.md",
     "Express js/Import Express.md",
     "Express js/Get Req Express.md",
-    "Excalidraw/Drawing 2025-12-29 11.06.59.excalidraw.md",
     "Untitled.canvas",
     "Aptitude/Number System",
     "Aptitude",
