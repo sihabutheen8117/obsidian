@@ -79,12 +79,15 @@
             "id": "27d5fd8b6f52f903",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Next JS/Next js map.md"
+                "file": "Next JS/NoFound page.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Next js map"
+              "icon": "lucide-file",
+              "title": "NoFound page"
             }
           },
           {
@@ -1358,6 +1361,7 @@
   },
   "active": "27d5fd8b6f52f903",
   "lastOpenFiles": [
+    "Next JS/Next js map.md",
     "Next JS/Routes Next js/Dynamic routes.md",
     "Docker/Install Docker in VM - without docker desktop.md",
     "Docker/docker commends.md",
@@ -1379,7 +1383,6 @@
     "DSA/Bit Manipulation",
     "Next_js/Layouts and pages in next.js.md",
     "Next JS/NoFound page.md",
-    "Next JS/Next js map.md",
     "Micro Processor and controller/8085 - Micro Processor - Architecture.md",
     "Java/Enums.md",
     "Java/Java Modifiers.md",
