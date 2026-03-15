@@ -79,12 +79,15 @@
             "id": "27d5fd8b6f52f903",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "Docker/Install Docker in VM - without docker desktop.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "Install Docker in VM - without docker desktop"
             }
           },
           {
@@ -1358,6 +1361,7 @@
   },
   "active": "27d5fd8b6f52f903",
   "lastOpenFiles": [
+    "Docker/docker commends.md",
     "Main Types of Processor Architectures.md",
     "Docker/Install Docker in VM - without docker desktop.md",
     "docker_host.webp",
@@ -1366,7 +1370,6 @@
     "Docker/Drawing 2026-02-23 21.52.48.excalidraw.md",
     "DSA/Meet in the middle/What is meet in the middle.md",
     "DSA/Meet in the middle",
-    "Docker/docker commends.md",
     "LINUX - kali",
     "Docker/Untitled.canvas",
     "DSA/Bit Manipulation/What is bit masking.md",
