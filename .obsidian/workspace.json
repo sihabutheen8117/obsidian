@@ -91,6 +91,18 @@
             }
           },
           {
+            "id": "572d7f81e4552d7a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
             "id": "575c0ce55c41f7a6",
             "type": "leaf",
             "state": {
@@ -1199,7 +1211,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -1359,7 +1371,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "27d5fd8b6f52f903",
+  "active": "572d7f81e4552d7a",
   "lastOpenFiles": [
     "Computer Networks/OSI reference model.md",
     "Next JS/Next_js/Meta Data in Next.js.md",
