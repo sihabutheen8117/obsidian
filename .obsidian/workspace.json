@@ -106,6 +106,18 @@
             }
           },
           {
+            "id": "11f3313d881993d9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "nunmai/engine/Drawing 2026-10-11 10.11.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-11 10.11.26.excalidraw"
+            }
+          },
+          {
             "id": "575c0ce55c41f7a6",
             "type": "leaf",
             "state": {
@@ -1214,7 +1226,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -1271,7 +1283,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7a0827eaf6509c22",
@@ -1359,7 +1372,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1374,9 +1388,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "572d7f81e4552d7a",
+  "active": "11f3313d881993d9",
   "lastOpenFiles": [
     "Ethical Hacking/00_Intro to Ethical Hacking.md",
+    "nunmai/engine/Drawing 2026-10-11 10.11.26.excalidraw.md",
+    "nunmai/engine/Untitled.canvas",
+    "nunmai/engine",
+    "nunmai",
     "Ethical Hacking",
     "Computer Networks/OSI reference model.md",
     "Next JS/Next_js/Meta Data in Next.js.md",
@@ -1410,11 +1428,8 @@
     "Micro Processor and controller/8085 - Micro Processor - Architecture.md",
     "Java/Enums.md",
     "Java/Java Modifiers.md",
-    "Java/Method Overloading.md",
     "Untitled.canvas",
     "Aptitude/Number System",
-    "Aptitude",
-    "React Query",
     "Pasted image 20250202113447.jpg"
   ]
 }
