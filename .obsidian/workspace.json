@@ -94,12 +94,15 @@
             "id": "572d7f81e4552d7a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Ethical Hacking/00_Intro to Ethical Hacking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "00_Intro to Ethical Hacking"
             }
           },
           {
@@ -1373,6 +1376,8 @@
   },
   "active": "572d7f81e4552d7a",
   "lastOpenFiles": [
+    "Ethical Hacking/00_Intro to Ethical Hacking.md",
+    "Ethical Hacking",
     "Computer Networks/OSI reference model.md",
     "Next JS/Next_js/Meta Data in Next.js.md",
     "Next JS/Next_js/Navigate programmatically in NEXT.js.md",
@@ -1406,12 +1411,10 @@
     "Java/Enums.md",
     "Java/Java Modifiers.md",
     "Java/Method Overloading.md",
-    "Java/OOPs.md",
     "Untitled.canvas",
     "Aptitude/Number System",
     "Aptitude",
     "React Query",
-    "Pasted image 20250202113447.jpg",
-    "Next JS/Routes Next js"
+    "Pasted image 20250202113447.jpg"
   ]
 }
